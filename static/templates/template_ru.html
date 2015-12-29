@@ -1,0 +1,411 @@
+<style><!--
+    table#table_f_f1b75df { border-collapse: collapse; }
+    #table_f_f1b75df.field_table_edit {border:1px solid #eee !important;}
+    #table_f_f1b75df tr { display: block; float: left; }
+    #table_f_f1b75df th, #table_f_f1b75df td { display: block; height:50px; padding: 0px 6px;border: 1px solid #eee;}
+    #table_f_f1b75df.field_table_edit .trow>td {padding: 0px 6px;border: 1px solid #eee;}
+    table#field_table_f_f1b75df { border-collapse: collapse; }
+    #field_table_f_f1b75df tr { display: block; float: left; }
+    #field_table_f_f1b75df th, #field_table_f_f1b75df td { display: block; height:50px; padding: 0px 6px;}
+    #field_table_f_f1b75df.field_table_edit .trow>td {padding: 0px 6px;border-bottom: 0px solid #eee;}
+    #lpk,#msap,table#lpk td,table#msap td,th{border:1px solid #000}#lpk,#msap{border-collapse:collapse;margin-left:15px;margin-top:25px}table#lpk th,table#msap th{background:#D9D9D9;width:700px;text-align:left;height:25px;padding-left:15px}table#lpk td,table#msap td{text-align:center;height:40px}
+    .main_tables{
+                border-collapse: collapse;
+                border:1px solid black;
+                margin-left: 15px;
+                margin-top:25px;
+                text-align: center;
+            }
+            table.main_tables td, th{
+                border:1px solid black;
+            }
+            table.main_tables th{
+                width:300px;
+                text-align: left;
+                height: 25px;
+                padding-left: 15px;
+            }
+            table.main_tables td{
+                width:400px;
+                text-align: left;
+                height: 25px;
+                padding-left: 15px;
+            }
+            table#arend_address_data td{
+                width:191px;
+            }
+--></style>
+<style><!--
+/* TAB */
+#tabtitles {
+list-style: none;
+padding: 1px;
+margin: 0px;
+height: 24px;
+padding-left: 10px;
+border-bottom: 1px solid #DDDDDD;
+}
+.tabtitleopened {
+padding:5px;
+padding-left:10px;
+padding-right:10px;
+padding-bottom:1px;
+float: left;
+border: 1px solid #DDDDDD;
+border-bottom: 1px solid white;
+}
+.tabtitleclosed {
+padding:5px;
+padding-left:10px;
+padding-right:10px;
+padding-bottom:1px;
+cursor: pointer;
+float: left;
+border: 1px solid #DDDDDD;
+background-color: whitesmoke;
+}
+#tabcontents {
+clear: left;
+}
+.tabcontentopened {
+display: block;
+}
+.tabcontentclosed {
+display: none;
+}
+}
+--></style>
+<script type="text/javascript">// <![CDATA[
+/**
+* Used for tabs
+*/
+function changeTab(sTtcId, sTccId) {
+var oTt = document.getElementById('tabtitles');
+var sTtaId = oTt.getAttribute('tabtitleactive') || 'tabtitle1';
+oTt.setAttribute('tabtitleactive', sTtcId);
+document.getElementById(sTtaId).setAttribute('class', 'tabtitleclosed');
+document.getElementById(sTtcId).setAttribute('class', 'tabtitleopened');
+var oTc = document.getElementById('tabcontents');
+var sTcaId = oTc.getAttribute('tabcontentactive') || 'tabcontent1';
+oTc.setAttribute('tabcontentactive', sTccId);
+document.getElementById(sTcaId).setAttribute('class', 'tabcontentclosed');
+document.getElementById(sTccId).setAttribute('class', 'tabcontentopened');
+}
+// ]]></script>
+<div style="text-align: center;">[ПРОГРЕСС] {Статус скоринга}</div>
+<div><input id="search_iin" type="text" /><button id="searchiin" class="btn">Поиск</button></div>
+<ul id="tabtitles" style="margin-top: 40px;">
+<li id="tabtitle1" class="tabtitleopened" onclick="changeTab('tabtitle1', 'tabcontent1')">АРЕНДАТОР<span class="highlightred">*</span></li>
+<li id="tabtitle2" class="tabtitleclosed" onclick="changeTab('tabtitle2', 'tabcontent2')">ГАРАНТ</li>
+<li id="tabtitle3" class="tabtitleclosed" onclick="changeTab('tabtitle3', 'tabcontent3')">МСАП/ЛПК</li>
+<li id="tabtitle4" class="tabtitleclosed" onclick="changeTab('tabtitle4', 'tabcontent4')">ДОКУМЕНТЫ</li>
+<li id="tabtitle5" class="tabtitleclosed" onclick="changeTab('tabtitle5', 'tabcontent5')">ХОД РАБОТЫ</li>
+</ul>
+<div id="tabcontents">
+<div id="tabcontent1" class="tabcontentopened">
+<table id="conditions_table" class="main_tables">
+<tbody>
+<tr><th>Программа</th>
+<td>{Программа}</td>
+</tr>
+<tr><th>Срок аренды</th>
+<td>{Срок аренды}</td>
+</tr>
+<tr><th>Группа участников программы</th>
+<td>{Группа участников программы}</td>
+</tr>
+<tr><th>Регион</th>
+<td>&nbsp;</td>
+</tr>
+<tr><th>Город</th>
+<td>&nbsp;</td>
+</tr>
+<tr><th>Жилой комплекс</th>
+<td>&nbsp;</td>
+</tr>
+<tr><th>Номер дома</th>
+<td>&nbsp;</td>
+</tr>
+<tr><th>Номер квартиры</th>
+<td>&nbsp;</td>
+</tr>
+<tr><th>Этаж</th>
+<td>&nbsp;</td>
+</tr>
+<tr><th>Количество комнат</th>
+<td>{Количество комнат}</td>
+</tr>
+<tr><th>Общая площадь арендуемой недвижимости</th>
+<td>{Площадь арендуемой недвижимости}</td>
+</tr>
+<tr><th>Общая стоимость арендной недвижимости</th>
+<td>{Стоимость недвижимости}</td>
+</tr>
+<tr><th>Стоимость аренды за 1кв.м.</th>
+<td>{Стоимость аренды за 1кв.м.}</td>
+</tr>
+<tr><th>Сумма ежемесячного арендного платежа</th>
+<td>{Сумма ежемесячного арендного платежа Арендатора}</td>
+</tr>
+</tbody>
+</table>
+<table id="arend_personal_data" class="main_tables">
+<tbody>
+<tr><th>Личные данные (для физических лиц)</th><th>Арендатор</th></tr>
+<tr><th>Фамилия</th>
+<td>{Фамилия Арендатора}</td>
+</tr>
+<tr><th>Имя</th>
+<td>{Имя Арендатора}</td>
+</tr>
+<tr><th>Отчество</th>
+<td>{Отчество Арендатора}</td>
+</tr>
+<tr><th>Дата рождения</th>
+<td>{Дата рождения Арендатора}</td>
+</tr>
+<tr><th>Место рождения</th>
+<td>{Место рождения Арендатора}&nbsp;</td>
+</tr>
+<tr><th>Пол (жен, муж)</th>
+<td>{Пол (жен, муж) Арендатора}</td>
+</tr>
+<tr><th>Образование</th>
+<td>{Образование Арендатора}</td>
+</tr>
+<tr><th>ИИН</th>
+<td>{ИИН Арендатора}&nbsp;</td>
+</tr>
+<tr><th>№ удостоверения личности</th>
+<td>{№ удостоверения личности Арендатора}</td>
+</tr>
+<tr><th>Кем выдано</th>
+<td>{Кем выдано удв. личности Арендатора}</td>
+</tr>
+<tr><th>Дата выдачи</th>
+<td>{Дата выдачи удв. Арендатора}</td>
+</tr>
+<tr><th>Срок действия документа</th>
+<td>{Срок действия документа Арендатора}</td>
+</tr>
+</tbody>
+</table>
+<table id="arend_family_data" class="main_tables">
+<tbody>
+<tr><th>Семейное положение</th><th>Арендатор</th></tr>
+<tr><th>Ф.И.О. супруга/ги</th>
+<td>{Ф.И.О. супруга/ги Арендатора}</td>
+</tr>
+<tr><th>Дети (кол-во)</th>
+<td>{Дети (кол-во) Арендатора}</td>
+</tr>
+<tr><th>Иждивенцы (кол-во)</th>
+<td>{Иждивенцы (кол-во) Арендатора}</td>
+</tr>
+</tbody>
+</table>
+<table id="arend_address_data" class="main_tables">
+<tbody>
+<tr><th rowspan="2">Адрес регистрации</th><th colspan="2">Арендатор</th></tr>
+<tr>
+<td>По месту регистрации</td>
+<td>Фактического проживания</td>
+</tr>
+<tr><th>Индекс</th>
+<td>&nbsp;{Индекс по месту регистрации Арендатора}</td>
+<td>&nbsp;{Индекс фактического проживания Арендатора}</td>
+</tr>
+<tr><th>Область</th>
+<td>&nbsp;{Область по месту регистрации Арендатора}</td>
+<td>&nbsp;{Область фактического проживания Арендатора}</td>
+</tr>
+<tr><th>Район</th>
+<td>&nbsp;{Район по месту регистрации Арендатора}</td>
+<td>&nbsp;{Район фактического проживания Арендатора}</td>
+</tr>
+<tr><th>Город/село</th>
+<td>&nbsp;{Город/Село по месту регистрации Арендатора}</td>
+<td>&nbsp;{Город/село фактического проживания Арендатора}</td>
+</tr>
+<tr><th>Мкр-н/улица</th>
+<td>&nbsp;{Мкр-н/улица по месту регистрации Арендатора}</td>
+<td>&nbsp;{Мкр-н/улица фактического проживания Арендатора}</td>
+</tr>
+<tr><th>Дом</th>
+<td>{Дом по месту регистрации Арендатора}&nbsp;</td>
+<td>&nbsp;{Дом фактического проживания Арендатора}</td>
+</tr>
+<tr><th>Квартира</th>
+<td>&nbsp;{Квартира по месту регистрации Арендатора}</td>
+<td>&nbsp;{Квартира фактического проживания Арендатора}</td>
+</tr>
+<tr><th>Телефон</th>
+<td>&nbsp;{Телефон по месту регистрации Арендатора}</td>
+<td>&nbsp;{Телефон фактического проживания Арендатора}</td>
+</tr>
+<tr><th>Дата регистрации</th>
+<td>&nbsp;{Дата регистрации по месту регистрации Арендатора}</td>
+<td>&nbsp;{Дата регистрации фактического проживания Арендатора}</td>
+</tr>
+</tbody>
+</table>
+<table id="arend_contact_data" class="main_tables">
+<tbody>
+<tr><th>Контактная информация</th><th>Арендатор</th></tr>
+<tr><th>Домашний телефон</th>
+<td>{Домашний телефон Арендатора}</td>
+</tr>
+<tr><th>Мобильный телефон 1</th>
+<td>{Мобильный телефон 1 Арендатора}</td>
+</tr>
+<tr><th>Мобильный телефон 2</th>
+<td>{Мобильный телефон 2 Арендатора}</td>
+</tr>
+<tr><th>Электронная почта</th>
+<td>{Электронная почта Арендатора}</td>
+</tr>
+</tbody>
+</table>
+<table id="arend_main_job_data" class="main_tables">
+<tbody>
+<tr><th>Сведения о занятости</th><th>Арендатор</th></tr>
+<tr><th>Наименование организации</th>
+<td>{Наименование организации Арендатора}</td>
+</tr>
+<tr><th>Адрес</th>
+<td>{Адрес работы Арендатора}</td>
+</tr>
+<tr><th>Должность</th>
+<td>{Должность Арендатора}</td>
+</tr>
+<tr><th>Стаж работы в данной организации</th>
+<td>{Стаж работы в данной организации Арендатора}</td>
+</tr>
+<tr><th>Общий стаж трудовой деятельности</th>
+<td>{Общий стаж трудовой деятельности Арендатора}</td>
+</tr>
+<tr><th>Телефон/факс</th>
+<td>{Телефон/факс работы Арендатора}</td>
+</tr>
+</tbody>
+</table>
+<table id="arend_additional_job_data" class="main_tables">
+<tbody>
+<tr><th>Дополнительная работа</th><th>Арендатор</th></tr>
+<tr><th>Наименование организации</th>
+<td>{Наименование организации (Дополнительная работа) Арендатор}</td>
+</tr>
+<tr><th>Должность</th>
+<td>{Должность (Дополнительная работа) Арендатор}</td>
+</tr>
+</tbody>
+</table>
+<table id="arend_income_data" class="main_tables">
+<tbody>
+<tr><th>Сведения о доходах</th><th>Арендатор</th></tr>
+<tr><th>Размер ежемесячной заработной платы по основному месту работы</th>
+<td>{Размер ежемесячной заработной платы по основному месту работы Арендатора}</td>
+</tr>
+<tr><th>Размер ежемесячной заработной платы по дополнительному месту работы</th>
+<td>{Размер ежемесячной заработной платы по дополнительному месту работы Арендатора}</td>
+</tr>
+<tr><th>Доходы в виде дивидендов</th>
+<td>{Доходы в виде дивидендов Арендатора}</td>
+</tr>
+<tr><th>Доходы в виде вознагражд. и регулярных сраховых выплат</th>
+<td>{Доходы в виде вознаграждения и регулярных страховых выплат Арендатора}</td>
+</tr>
+<tr><th>Пенсионные выплаты и стипендии</th>
+<td>{Пенсионные выплаты и стипендии Арендатора}</td>
+</tr>
+<tr><th>Доход в виде арендной платы</th>
+<td>{Доход в виде арендной платы Арендатора}</td>
+</tr>
+<tr><th>Получаемые алименты</th>
+<td>{Получаемые алименты Арендатора}</td>
+</tr>
+<tr><th>Другие доходы</th>
+<td>{Другие доходы Арендатора}</td>
+</tr>
+<tr><th>ИТОГО ДОХОДОВ</th>
+<td>{Итого доходов Арендатора}</td>
+</tr>
+</tbody>
+</table>
+<table id="arend_expenses_data" class="main_tables">
+<tbody>
+<tr><th>Сведения о расходах</th><th>Арендатор</th></tr>
+<tr><th>Постоянные расходы</th>
+<td>{Постоянные расходы Арендатора}</td>
+</tr>
+<tr><th>Расходы по уплате алиментов</th>
+<td>{Расходы по уплате алиментов Арендатора}</td>
+</tr>
+<tr><th>Расходы по налогам на имущество</th>
+<td>{Расходы по налогам на имущество Арендатора}</td>
+</tr>
+<tr><th>Платеж по страхованию имущества</th>
+<td>{Платеж по страхованию имущества Арендатора}</td>
+</tr>
+<tr><th>Платеж по страхованию жизни</th>
+<td>{Платеж по страхованию жизни Арендатора}</td>
+</tr>
+<tr><th>Ежемесячные выплаты по кредитам в банках</th>
+<td>{Ежемесячные выплаты по кредитам в банках Арендатора}&nbsp;</td>
+</tr>
+<tr><th>Коммунальные платежи</th>
+<td>{Коммунальные платежи Арендатора}</td>
+</tr>
+<tr><th>Ежемесячный платеж по аренде</th>
+<td>{Ежемесячный платеж по аренде Арендатора}</td>
+</tr>
+<tr><th>Прочие расходы</th>
+<td>{Прочие расходы Арендатора}</td>
+</tr>
+<tr><th>ИТОГО РАСХОДОВ</th>
+<td>{Итого расходов Арендатора}</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="tabcontent2" class="tabcontentclosed">{Гаранты}</div>
+<div id="tabcontent3" class="tabcontentclosed"><br />
+<table id="msap">
+<tbody>
+<tr><th colspan="3"><strong>МСАП</strong></th></tr>
+<tr>
+<td width="300"><strong>Размер МСАП</strong></td>
+<td>{Размер МСАП}</td>
+</tr>
+</tbody>
+</table>
+<br />
+<table id="lpk">
+<tbody>
+<tr><th colspan="3"><strong>ЛПК</strong></th></tr>
+<tr>
+<td width="300"><strong>П/Д</strong></td>
+<td>{П/Д}</td>
+</tr>
+<tr>
+<td width="300"><strong>О/Д</strong></td>
+<td>{О/Д}</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="tabcontent4" class="tabcontentclosed">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>1.Копии удостоверений личности Заявителя{Копии удостоверений личности Заявителя}</p>
+<p>2. Копии адресной справки Заявителя{Копии адресной справки Заявителя}</p>
+<p>3. Копии справок с места работы Заявителя{Копии справок с места работы Заявителя}</p>
+<p>4. Копии справок о заработной плате за последние шесть месяцев Заявителя предшествующих месяцу подачи документов{Копии справок о заработной плате за последние шесть месяцев Заявителя предшествующих месяцу подачи документов}</p>
+<p>5. Копии документов, подтверждающих иные доходы Заявителя, с дополнительного места работы за последние двенадцать месяцев, предшествующих месяцу подачи документов{Копии документов, подтверждающих иные доходы Заявителя, с дополнительного места работы за последние двенадцать месяцев, предшествующих месяцу подачи документов}</p>
+<p>6. Копии выписок о пенсионных отчислениях Заявителя, за последние шесть/двенадцать месяцев, предшествующих месяцу подачи документов{Копии выписок о пенсионных отчислениях Заявителя, за последние шесть/двенадцать месяцев, предшествующих месяцу подачи документов}</p>
+<p>7. Копии свидетельства о заключении брака, расторжении брака, свидетельства о смерти супруга/супруги Заявителя{Копии свидетельства о заключении брака, расторжении брака, свидетельства о смерти супруга/супруги Заявителя}</p>
+<p><span style="font-size: 10pt; line-height: 1;">8. Оригиналы и копии свидетельств о рождении детей (при наличии детей) Заявителя{Оригиналы и копии свидетельств о рождении детей (при наличии детей) Заявителя}</span></p>
+<p><span style="font-size: 10pt; line-height: 1;">9. Направление с МИО{Направление с МИО}</span></p>
+</div>
+<div id="tabcontent5" class="tabcontentclosed">[ХОД РАБОТЫ]</div>
+</div>

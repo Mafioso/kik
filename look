@@ -1,0 +1,1686 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name='wmail-verification' content='baa3c4d79cb0e8f7' />
+<title>РОЗЫСК ПРЕСТУПНИКОВ</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="msvalidate.01" content="C194FEF0B513CBCB0BF686E9FCBF70A5"/> <!-- code for BING.com-->
+<base href="http://mvd.gov.kz/portal/pls/portal/">
+<STYLE TYPE="text/css">.GroupHeaderid1siteid133{Background-Color:#336699;Height:20;Text-Align:left;}
+.GroupHeaderLinkid1siteid133{Color:#FFFFFF;Font-Family:Arial, Helvetica;Font-Size:9pt;Font-Weight:Bold;}
+.GroupHeaderTextid1siteid133{Color:#FFFFFF;Font-Family:Arial, Helvetica;Font-Size:9pt;Font-Weight:Bold;}
+.RegionHeaderid1siteid133{Background-Color:#336699;Height:20;Text-Align:Left;}
+.RegionHeaderTextid1siteid133{Color:#FFFFFF;Font-Family:Arial, Helvetica;Font-Size:9pt;Font-Weight:Bold;}
+.Bodyid1siteid133{}
+.authorid1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.createdateid1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.creatorid1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.defaultattributeid1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.descriptionid1siteid133{Color:#000000;Font-Family:Verdana;Font-Size:11pt;}
+.documentsizeid1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.expiredateid1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.inplacedisplayid1siteid133{Color:#000000;Font-Family:Verdana;Font-Size:11pt;}
+.itemfunctionid1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.keywordsid1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.perspectivesid1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.scoreid1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.subpagetitleid1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.titleid1siteid133{Color:#000000;Font-Family:Verdana;Font-Size:10pt;Font-Weight:Bold;}
+.titleorimageid1siteid133{Color:#003366;Text-Decoration:none;Font-Family:Verdana;Font-Size:11pt;Font-Weight:Bold;}
+.wwsbr_category_id1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_charset_id1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_itemtype_id1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_mime_type_id1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_page_id1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_pagegroup_id1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_publishdate_id1siteid133{Color:#2B5372;Text-Decoration:Underline;Font-Family:Verdana;Font-Size:9pt;Font-Weight:Bold;}
+.wwsbr_updatedate_id1siteid133{Color:#000000;Font-Family:Verdana;Font-Size:8pt;}
+.wwsbr_updator_id1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_version_number_id1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.LeftCurve{Background-Attachment:scroll;Background-Image:url(http://mvd.gov.kz/images/l.gif);Background-Position:left top;Background-Repeat:no-repeat;}
+.PortletBodyColor{}
+.PortletHeaderColor{Background-Color:#006666;}
+.PortletHeaderLink{Color:#FFFFFF;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.PortletHeaderStyle{}
+.PortletHeaderText{Color:#FFFFFF;Font-Family:Arial, Helvetica;Font-Size:10pt;Font-Weight:Bold;}
+.PortletHeading1{Color:#330066;Text-Decoration:none;Font-Family:Arial, Helvetica;Font-Size:9pt;}
+.PortletHeading2{Color:#336699;Font-Family:Arial, Helvetica;Font-Size:8pt;Font-Weight:Bold;}
+.PortletHeading3{Color:#336699;Font-Family:Arial, Helvetica;Font-Size:7pt;Font-Weight:Bold;}
+.PortletHeading4{Color:#336699;Font-Family:Arial, Helvetica;Font-Size:7pt;Font-Weight:Bold;}
+.PortletSubHeaderColor{Background-Color:#EEEEDD;}
+.PortletSubHeaderLink{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:9pt;}
+.PortletSubHeaderText{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:9pt;}
+.PortletText1{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.PortletText2{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.PortletText3{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:7pt;}
+.PortletText4{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:7pt;}
+.RightCurve{Background-Attachment:scroll;Background-Image:url(http://mvd.gov.kz/images/r.gif);Background-Position:right top;Background-Repeat:no-repeat;}
+.LeftSubTabid1siteid133{Background-Attachment:scroll;Background-Color:#336699;Background-Image:url(http://mvd.gov.kz/images/sl.gif);Background-Position:left top;Background-Repeat:no-repeat;}
+.LeftTabBgSlantid1siteid133{Background-Attachment:scroll;Background-Color:#CCCC99;Background-Image:url(http://mvd.gov.kz/images/tl.gif);Background-Position:left top;Background-Repeat:no-repeat;}
+.LeftTabForeSlantid1siteid133{Background-Attachment:scroll;Background-Color:#336699;Background-Image:url(http://mvd.gov.kz/images/tl.gif);Background-Position:left top;Background-Repeat:no-repeat;}
+.RightSubTabid1siteid133{Background-Attachment:scroll;Background-Color:#336699;Background-Image:url(http://mvd.gov.kz/images/sr.gif);Background-Position:right top;Background-Repeat:no-repeat;}
+.RightTabBgCurveid1siteid133{Background-Attachment:scroll;Background-Color:#CCCC99;Background-Image:url(http://mvd.gov.kz/images/tr.gif);Background-Position:right top;Background-Repeat:no-repeat;}
+.RightTabForeCurveid1siteid133{Background-Attachment:scroll;Background-Color:#336699;Background-Image:url(http://mvd.gov.kz/images/tr.gif);Background-Position:right top;Background-Repeat:no-repeat;}
+.SubTabBgTextid1siteid133{Color:#CCCC99;Text-Decoration:none;Font-Family:Arial, Helvetica;Font-Size:11pt;Font-Weight:Bold;}
+.TabBackgroundColorid1siteid133{Background-Color:#CCCC99;}
+.TabBackgroundTextid1siteid133{Color:#003366;Text-Decoration:none;Font-Family:Arial, Helvetica;Font-Size:10pt;}
+.TabForegroundColorid1siteid133{Background-Color:#336699;}
+.TabForegroundTextid1siteid133{Color:#FFFFFF;Text-Decoration:none;Font-Family:Arial, Helvetica;Font-Size:10pt;Font-Weight:Bold;}
+.portlet-font{Color:#000000;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    }
+.portlet-font-dim{Color:#000000;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    }
+.portlet-msg-status{Color:#000000;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    }
+.portlet-msg-info{Color:#000000;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    }
+.portlet-msg-error{Color:#000000;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    }
+.portlet-msg-alert{Color:#000000;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    }
+.portlet-msg-success{Color:#000000;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    }
+.portlet-section-header{Color:#330066;    Text-Decoration:none;    Font-Family:Arial, Helvetica;    Font-Size:9pt;    }
+.portlet-section-body{Color:#000000;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    }
+.portlet-section-alternate{Color:#000000;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    }
+.portlet-section-selected{Color:#000000;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    }
+.portlet-section-subheader{Color:#336699;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    Font-Weight:Bold;    }
+.portlet-section-footer{Color:#000000;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    }
+.portlet-section-text{Color:#000000;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    }
+.portlet-table-header{Color:#330066;    Text-Decoration:none;    Font-Family:Arial, Helvetica;    Font-Size:9pt;    Background-Color:#EEEEDD;    }
+.portlet-table-body{Color:#000000;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    }
+.portlet-table-alternate{Color:#000000;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    }
+.portlet-table-selected{Color:#000000;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    }
+.portlet-table-subheader{Color:#336699;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    Font-Weight:Bold;    }
+.portlet-table-footer{Color:#000000;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    }
+.portlet-table-text{Color:#000000;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    }
+.portlet-form-label{Color:#000000;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    }
+.portlet-form-input-field{Color:#000000;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    }
+.portlet-form-button{Color:#000000;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    }
+.portlet-icon-label{Color:#000000;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    }
+.portlet-dlg-icon-label{Color:#000000;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    }
+.portlet-form-field-label{Color:#000000;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    }
+.portlet-form-field{Color:#000000;    Font-Family:Arial, Helvetica;    Font-Size:8pt;    }
+.RegionNoBorder{}
+.RegionBorder { border:#006666  1px solid; }
+.RegionHeaderColor { background-color:; border:#006666 0px solid }
+.PageColor { background-color:}
+ </STYLE><STYLE TYPE="text/css">.GroupHeaderid31247599siteid133{Background-Color:#336699;Height:20;Text-Align:left;}
+.GroupHeaderLinkid31247599siteid133{Color:#FFFFFF;Font-Family:Arial, Helvetica;Font-Size:9pt;Font-Weight:Bold;}
+.GroupHeaderTextid31247599siteid133{Color:#FFFFFF;Font-Family:Arial, Helvetica;Font-Size:9pt;Font-Weight:Bold;}
+.RegionHeaderid31247599siteid133{Background-Color:#336699;Height:20;Text-Align:Left;}
+.RegionHeaderTextid31247599siteid133{Color:#FFFFFF;Font-Family:Arial, Helvetica;Font-Size:9pt;Font-Weight:Bold;}
+.Bodyid31247599siteid133{}
+.authorid31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.createdateid31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.creatorid31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.defaultattributeid31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.descriptionid31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:9pt;}
+.documentsizeid31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.expiredateid31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.inplacedisplayid31247599siteid133{Color:#005476;Text-Decoration:Underline;Font-Family:Arial, Helvetica;Font-Size:10pt;Font-Style:Italic;    Font-Weight:Bold;}
+.itemfunctionid31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.keywordsid31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.perspectivesid31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.scoreid31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.subpagetitleid31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.titleid31247599siteid133{Color:#005476;Text-Decoration:Underline;Font-Family:Arial, Helvetica;Font-Size:10pt;Font-Style:Italic;    Font-Weight:Bold;}
+.titleorimageid31247599siteid133{Color:#005476;Text-Decoration:Underline;Font-Family:Arial, Helvetica;Font-Size:10pt;Font-Style:Italic;    Font-Weight:Bold;}
+.wwsbr_category_id31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_charset_id31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_itemtype_id31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_mime_type_id31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_page_id31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_pagegroup_id31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_publishdate_id31247599siteid133{Color:#2B5372;Text-Decoration:Underline;Font-Family:Arial, Helvetica;Font-Size:9pt;Font-Weight:Bold;}
+.wwsbr_updatedate_id31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_updator_id31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_version_number_id31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.LeftSubTabid31247599siteid133{Background-Attachment:scroll;Background-Color:#336699;Background-Image:url(http://mvd.gov.kz/images/sl.gif);Background-Position:left top;Background-Repeat:no-repeat;}
+.LeftTabBgSlantid31247599siteid133{Background-Attachment:scroll;Background-Color:#CCCC99;Background-Image:url(http://mvd.gov.kz/images/tl.gif);Background-Position:left top;Background-Repeat:no-repeat;}
+.LeftTabForeSlantid31247599siteid133{Background-Attachment:scroll;Background-Color:#336699;Background-Image:url(http://mvd.gov.kz/images/tl.gif);Background-Position:left top;Background-Repeat:no-repeat;}
+.RightSubTabid31247599siteid133{Background-Attachment:scroll;Background-Color:#336699;Background-Image:url(http://mvd.gov.kz/images/sr.gif);Background-Position:right top;Background-Repeat:no-repeat;}
+.RightTabBgCurveid31247599siteid133{Background-Attachment:scroll;Background-Color:#CCCC99;Background-Image:url(http://mvd.gov.kz/images/tr.gif);Background-Position:right top;Background-Repeat:no-repeat;}
+.RightTabForeCurveid31247599siteid133{Background-Attachment:scroll;Background-Color:#336699;Background-Image:url(http://mvd.gov.kz/images/tr.gif);Background-Position:right top;Background-Repeat:no-repeat;}
+.SubTabBgTextid31247599siteid133{Color:#CCCC99;Text-Decoration:none;Font-Family:Arial, Helvetica;Font-Size:11pt;Font-Weight:Bold;}
+.TabBackgroundColorid31247599siteid133{Background-Color:#CCCC99;}
+.TabBackgroundTextid31247599siteid133{Color:#003366;Text-Decoration:none;Font-Family:Arial, Helvetica;Font-Size:10pt;}
+.TabForegroundColorid31247599siteid133{Background-Color:#336699;}
+.TabForegroundTextid31247599siteid133{Color:#FFFFFF;Text-Decoration:none;Font-Family:Arial, Helvetica;Font-Size:10pt;Font-Weight:Bold;}
+ </STYLE>
+
+<link type="text/css" href="/images/mvd/css/mistakes.css" media="all" rel="stylesheet"/>
+<link type="text/css" href="/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/skitter_video.css" media="all" rel="stylesheet"/>
+<link type="text/css" href="/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/2015style_v5.css" media="all" rel="stylesheet"/>
+<link rel="stylesheet" type="text/css" href="/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/easydropdown.metro_v2.css"/>
+<link rel="stylesheet" type="text/css" href="/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/calendar.css"/>
+<style type="text/css">
+
+
+
+#p133_31594796_133_11246915_11246915 {background-color: white;}
+#p133_31594717_133_11246915_11246915 {background-color: white;}
+#pcnt133_31117078_133_11246915_11246915 {  
+	background-color: #B8E1EA;
+  padding: 3px;
+  border: white solid 1px;
+  border-radius: 5px;}
+
+
+        #abtn {
+            
+background: url(/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/icon_cmi_rus_0.png) no-repeat;
+	           
+        }
+
+
+/* need add to calendar.css*/
+.footrow{
+	height: 54px;
+}
+
+/*-------*/
+.eml-table td {
+  color: #005476!important;
+  font-style: italic !important;
+}
+
+
+#colTwister, #colTwisterVideo {
+	height: 450px !important;
+}
+
+
+
+</style>
+<script language="javascript" type="text/javascript" src="/images/mvd/js/jquery-1.6.3.min.js" ></script>
+<script src="/portal/page/portal/mvd/mvd_system/Files/jquery.tools.min.js"></script>
+<script src="/images/mvd/js/scrollTop.js" type="text/javascript"></script>
+<script type="text/javascript" src="/images/mvd/js/analytics.js"></script>
+<script type="text/javascript" src="/images/mvd/social/socializ_url.js"></script>
+<script type="text/javascript" src="/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/columntwister.js" ></script>
+<script src="/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/jquery.easydropdown_v2.min.js"></script>
+<script src="/portal/page/portal/mvd/mvd_system/Files/skitter_video_0.js"></script>
+
+<script src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/java_scripts/jquery-1.7.1.min.js"></script>
+ <script type="text/javascript">
+     $(document).ready(function () {
+
+         
+         $(".Bodyid1siteid0 a[href$='.pdf']").each(function (i) {
+
+
+             $(this).html($(this).html() + '<img style="padding-left:5px;vertical-align:middle;" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/file_extension/file_pdf.ico"/>');
+
+         });
+         $(".Bodyid1siteid0 a[href$='.doc'], .Bodyid1siteid0a[href$='.docx']").each(function (i) {
+
+
+
+             $(this).html($(this).html() + '<img style="padding-left:5px;vertical-align:middle;" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/file_extension/file_doc_0.ico"/>');
+         });
+         $(".Bodyid1siteid0 a[href$='.xls'],.Bodyid1siteid0 a[href$='.xlsx']").each(function (i) {
+
+
+
+             $(this).html($(this).html() + '<img style="padding-left:5px;vertical-align:middle;" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/file_extension/file_xls.ico"/>');
+         });
+     });
+    </script>
+
+<script type="text/javascript"> 
+ $(document).ready(function(){
+       $('#rg458442 img').width(150);
+       $('#rg458442 img').mouseover(function()
+       {
+          $(this).css("cursor","pointer");
+          $(this).animate({width: "400px", height : "250px"}, 'normal');
+       });
+    
+    $('#rg458442 img').mouseout(function()
+      {   
+          $(this).animate({width: "150px", height: "88px"}, 'normal');
+       });
+   });
+    $(document).ready(function(){
+       $('#rg458443 img').width(150);
+       $('#rg458443 img').mouseover(function()
+       {
+          $(this).css("cursor","pointer");
+          $(this).animate({width: "400px", height : "250px"}, 'normal');
+       });
+    
+    $('#rg458443 img').mouseout(function()
+      {   
+          $(this).animate({width: "150px", height: "88px"}, 'normal');
+       });
+   });
+
+
+
+ $(document).ready(function(){
+       $('#rg510544 img').width(259);
+       $('#rg510544 img').mouseover(function()
+       {
+          $(this).css("cursor","pointer");
+          $(this).animate({width: "400px", height : "250px"}, 'normal');
+       });
+    
+    $('#rg510544 img').mouseout(function()
+      {   
+          $(this).animate({width: "259px", height: "194px"}, 'normal');
+       });
+   });
+
+
+
+
+</script>
+    <script>
+
+        $(document).ready(function () {
+
+        var b = $('#abtn');
+        var c = $('#acont');
+        b.toggle(function () {
+
+            $("#abtn").toggleClass("stateVisible");
+            $("#inputText").focus();
+            b.animate({ 'margin-left': '-=397px', opacity: 1 }, 1000);
+            c.animate({ 'left': '-=397px', opacity: 1 }, 1000);
+        },
+        function () {
+            $("#abtn").toggleClass("stateVisible");
+            $("#inputText").val('');
+            b.animate({ 'margin-left': '+=397px', opacity: 1 }, 1000);
+            c.animate({ 'left': '+=397px', opacity: 1 }, 1000);
+        });
+
+
+
+
+        $(function () {
+            $(document).click(function (event) {
+                if ($(event.target).closest("#acont").length) return;
+                if ($(event.target).closest("#abtn").length) return;
+                if ($("#abtn").attr("class") == "stateVisible") {
+                    $('#abtn').trigger("click");
+                }
+
+            })
+        });
+
+
+
+        $.ajax({
+            type: 'GET',
+            url: '/portal/page/portal/mvd/MVD/mvd_panel_smi',
+            success: function (data) {
+                //alert("ok");
+                $("#inner-content").html(data);
+
+            },
+            error: function () {
+
+            }
+        });
+    });
+    </script>
+
+
+</head>
+<body>
+
+<div id="wrapper">
+	<div id="header">
+		<div id="header-top">
+			
+  				<a id="top-mail" href="mailto:press@mvd.kz"><img  title="Написать письмо" src="/images/mvd/main/mail19.png" /></a>  				<a id="top-home" href="/portal/page/portal/mvd/MVD"><img title="На Главную" src="/images/mvd/main/home.png" /></a>  				<a id="top-map" href="/portal/page/portal/mvd/MVD/site_map"><img title="Карта сайта" src="/images/mvd/main/sitemap.png" /></a>    				<a id="top-win" href="https://www.microsoft.com/ru-ru/store/apps/mvd-rk/9nblggh1xsfc">  				<img class="top-pick" title="Windows" src="/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/win_ph_16x16.png" /></a>    				<a id="top-android" href="https://play.google.com/store/apps/details?id=kz.asoft.mvd.mobile_app">  				<img class="top-pick" title="Android"  src="/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/android-icon.png" /></a>  				<a id="top-ios" href="https://itunes.apple.com/ru/app/mvd-rk/id947845060?mt=8">  				<img class="top-pick" title="iOS" src="/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/ios-icon.png" /></a>  				<a id="top-mobile" href="/portal/page/portal/mvd_m/mvdM"><img class="top-pick" title="Мобильная версия" src="/images/mvd/main/phone_3111.png" /></a>  				<a id="top-eye" href="/portal/page/portal/spec/main"><img class="top-pick" title="Версия для слабовидящих" src="/images/mvd/main/12-eye_5094.png" /></a>  				
+	
+
+
+			<div id="head-line"></div>
+		</div>
+		<div id="header-section">
+			<div id="header-gerb">		
+			</div>	
+			<a href="/portal/page/portal/mvd/MVD" style="text-decoration: none;"><h1>
+				
+Министерство внутренних дел Республики Казахстан
+	
+			</h1>	</a>
+		</div>
+	</div>
+
+
+	<div id="body">
+		<div id="body-content">
+			<script type="text/javascript">
+socializ("ru","/images/mvd/social/", 310, 20)
+</script>
+			
+<iframe id="portalIFrame" title="" frameborder="0" width="0" height="0" src="/images/pobtrans.gif"></iframe><SCRIPT TYPE="text/javascript" SRC="http://mvd.gov.kz/portal/pls/portal/PORTAL.wwsbr_javascript.page_js?p_language=ru&p_version=10.1.4.0.0.594">
+<!-- Comment out script for old browsers
+//-->
+</SCRIPT>
+<TABLE  WIDTH="100%" id="rg461484"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="CENTER">
+<TD vAlign="top" style="padding:0px 0px 0px 0px;" width="100%"><DIV id="p133_31263504_133_11308149_11308149"><TABLE  BORDER="0" WIDTH="100%" CELLPADDING="0" CELLSPACING="0" class="RegionNoBorder">
+<TR><TD class="RegionHeaderColor" WIDTH="100%"><DIV id="pcnt133_31263504_133_11308149_11308149"><DIV class="Bodyid1siteid133">
+<TABLE  WIDTH="100%" id="rg452003"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:0px 0px 0px 0px;" width="100%"><font class="inplacedisplayid1siteid133"><meta name="GENERATOR" content="MSHTML 11.00.9600.17496">
+
+<div id="top-menu-wrapper">
+<ul id="top-menu">
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD">ГЛАВНАЯ</a> 
+<ul>
+<li><a class="expand" href="http://mvd.gov.kz/portal/page/portal/D0AE170605046ABDE044002655122E6A">Государственные символы</a> 
+<ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_symbol/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9 %D0%A4%D0%BB%D0%B0%D0%B3">Государственный Флаг</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_symbol/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%93%D0%B5%D1%80%D0%B1">Государственный Герб</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_symbol/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%93%D0%B8%D0%BC%D0%BD">Государственный Гимн</a> </li></ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/D1017F32068C3BFBE044002655122E6A">Послание Президента РК</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/F9DD315B53802651E044002655122E6A">Реализация Послания Президента Республики Казахстан</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/D1C5073C56CF0DAAE044002655122E6A">Социальная модернизация Казахстана</a> 
+<li><a class="expand" href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/100_steps">«100 конкретных шагов»</a> 
+<ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/100_steps/for_citizens">Для граждан</a> </li></ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/D1C50A37475D0DA6E044002655122E6A">«Нур Отан» Казахстан - Цели 2017</a> 
+<ul><!--li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/Purposes2017/MVD_line_adm_police">По линии работы Комитета административной полиции</a></li--><!--li><a href="http://mvd.gov.kz/portal/page/portal/E258F688C30463F8E044002655122E6A">По линии работы Штаб департамента</a></li--></ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/D4F7160FFDD63E37E044002655122E6A">Взаимодействие с НПО</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/D1C4C42E339C0C40E044002655122E6A">Общественный совет</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/0F64034BD18D5BC0E054002655122E6A">Юбилейные даты</a> </li></ul>
+<li><a>О МИНИСТЕРСТВЕ</a> 
+<ul>
+<li><a class="expand" href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_min/ministr">Министр</a> 
+<ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_min/ministr?_piref133_11288986_133_11288440_11288440.selpageid=133,129167">Указ Президента о назначении</a> 
+<li><a class="expand" href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_min/ministr?_piref133_11288986_133_11288440_11288440.selpageid=133,431853">Фотографии</a> 
+<ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_min/ministr?_piref133_11288986_133_11288440_11288440.selpageid=133,129171">Персональные фотографии</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_min/ministr?_piref133_11288986_133_11288440_11288440.selpageid=133,129175">Официальные встречи</a> </li></ul></li></ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_min/rukovodstvo">Руководство МВД РК</a> 
+<li><a class="expand">Комитеты и Департаменты</a> 
+<ul>
+<li><a class="expand" href="http://mvd.gov.kz/portal/page/portal/1EEF27E6AFC031E1E054002655122E6A">Комитет административной полиции</a> 
+<ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/1EF4DEF4EC402793E054002655122E6A">Управление специализированной службы охраны МВД (г. Астана)</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/Comitet_dep/Administrative_Police/local_police_services">Местная полицейская служба</a> </li></ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/Comitet_dep?_piref133_11795991_133_11532728_11532728.selpageid=133,116849">Департамент криминальной полиции</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/Comitet_dep?_piref133_11795991_133_11532728_11532728.selpageid=133,116933">Следственный Департамент</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/Comitet_dep?_piref133_11795991_133_11532728_11532728.selpageid=133,116837">Национальное Центральное бюро Интерпола</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/Comitet_dep?_piref133_11795991_133_11532728_11532728.selpageid=133,116950">Департамент кадровой работы</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/Comitet_dep?_piref133_11795991_133_11532728_11532728.selpageid=133,117124">Штаб Департамент</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/Comitet_dep?_piref133_11795991_133_11532728_11532728.selpageid=133,117129">Оперативно-криминалистический Департамент</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/Comitet_dep?_piref133_11795991_133_11532728_11532728.selpageid=133,117192">Департамент технической службы</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/Comitet_dep?_piref133_11795991_133_11532728_11532728.selpageid=133,117195">Юридический Департамент</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/Comitet_dep?_piref133_11795991_133_11532728_11532728.selpageid=133,117198">Департамент собственной безопасности</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/Comitet_dep?_piref133_11795991_133_11532728_11532728.selpageid=133,117213">Департамент государственного языка и информации</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/Comitet_dep?_piref133_11795991_133_11532728_11532728.selpageid=133,7527210">Информационно-аналитический центр</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/Comitet_dep?_piref133_11795991_133_11532728_11532728.selpageid=133,7693338">Департамент оперативного планирования</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/Comitet_dep/Dep_anti_narkobesiness">Департамент по борьбе с наркобизнесом</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/Comitet_dep?_piref133_11795991_133_11532728_11532728.selpageid=133,7693437">Департамент миграционной полиции</a> </li></ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_min/priem_gr">График приема грaждaн</a> 
+<li><a class="expand">Пресс-служба</a> 
+<ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/press/pr_slMVD">Пресс-служба</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/press/pr_sek">Пресс-секретарь</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/press/pr_interview">Интервью</a> <!--li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/press/pr_brifing">Брифинги</a></li-->
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/press/pr_relize">Пресс-релизы</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/press/pr_list">Список пресс-секретарей начальников ДВД</a> </li></ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_min/struct_mvd">Структура</a> </li></ul>
+<li><a>ДЕЯТЕЛЬНОСТЬ ВЕДОМСТВА</a> 
+<ul>
+<li><a class="expand" href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/mvd_gos_uslugi">Государственные услуги</a> 
+<ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/mvd_gos_uslugi/standarts_regulations_and_passports">Стандарты, регламенты и паспорта</a> </li></ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/Memorial">Мемориал</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/free">Защита конституционных прав и свобод граждан</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/kidnepping">Борьба с торговлей людьми</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/Anti_narkobesiness_prof_nark">Борьба с наркобизнесом и профилактика наркомании</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/Voprosy_protivodeystviya_kor">Вопросы противодействия коррупции</a> 
+<li><a class="expand" href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/staff">Кадровая политика</a> 
+<ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/staff?_piref133_11319727_133_11319682_11319682.selpageid=133,7586944">История создания казахстанской полиции</a> 
+<li><a class="expand" href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/staff?_piref133_11319727_133_11319682_11319682.selpageid=133,116820">Учебные заведения Министерства внутренних дел</a> 
+<ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/staff?_piref133_11319727_133_11319682_11319682.selpageid=133,6236732">Алматинская академия МВД</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/staff?_piref133_11319727_133_11319682_11319682.selpageid=133,6236749">Карагандинская академия МВД</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/staff?_piref133_11319727_133_11319682_11319682.selpageid=133,6236762">Костанайская академия МВД</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/staff?_piref133_11319727_133_11319682_11319682.selpageid=133,6236771">Актюбинский юридический институт МВД</a> </li></ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/staff?_piref133_11319727_133_11319682_11319682.selpageid=133,116817">Правила приема в ОВД</a> 
+<li><a class="expand" href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/staff?_piref133_11319727_133_11319682_11319682.selpageid=133,6302870">Информация для абитуриентов</a> 
+<ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/staff?_piref133_11319727_133_11319682_11319682.selpageid=133,6316606">Приглашение в высшие учебные заведения МВД РК</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/staff?_piref133_11319727_133_11319682_11319682.selpageid=133,6317161">Условия отбора и приема в ВУЗы МВД</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/staff?_piref133_11319727_133_11319682_11319682.selpageid=133,6302876">Нормативные правовые акты, регламентирующие вопросы приема в ВУЗЫ МВД</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/staff?_piref133_11319727_133_11319682_11319682.selpageid=133,6340049">Наши контакты</a> </li></ul>
+<li><a class="expand" href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/MVD_muzey">Музей МВД</a> 
+<ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/F342D1514D004594E044002655122E6A">История создания музея</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/staff/mvd_muzey/According_to_the_law_of_courage">По закону мужества</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/F6264F91FBC36277E044002655122E6A">Вестник</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/F342D3B3A70045B1E044002655122E6A">Экспозиции музея</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/staff/mvd_muzey/mvd_general1">Генералы МВД</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/staff/mvd_muzey/mvd_geroi_vov1">Герои ВОВ</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/F823C25903C051A1E044002655122E6A">СМИ о нас</a> <!--li><a href="http://">Генералы МВД</a></li> <li><a href="http://">Экскурсия</a></li-->
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_muzey/%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B">Контакты</a> </li></ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/staff?_piref133_11319727_133_11319682_11319682.selpageid=133,119950">Страница памяти</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/staff?_piref133_11319727_133_11319682_11319682.selpageid=133,120037">Наши ветераны</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/staff?_piref133_11319727_133_11319682_11319682.selpageid=133,120090">Спортивные достижения</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/staff?_piref133_11319727_133_11319682_11319682.selpageid=133,120089">Знаменательные события</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/staff?_piref133_11319727_133_11319682_11319682.selpageid=133,115451">Новости в кадровой работе</a> <!--li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/staff?_piref133_11319727_133_11319682_11319682.selpageid=133,119949">Сведения по вакантным должностям</a></li-->
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/staff?_piref133_11319727_133_11319682_11319682.selpageid=133,115360">Патриотическое воспитание сотрудников</a> 
+<li><a href="http://mvd.gov.kz/images/mvd/MemoryBook.pdf">Книга памяти</a> </li></ul><!--li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/certification">Внеочередная аттестация сотрудников ОВД</a></li-->
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/intern">Международное сотрудничество</a> 
+<li><a class="expand">Профилактика правонарушений</a> 
+<ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/MVD_profilaktica_pravonarushenyi/MVD_moshennichestvo">Мошенничество</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/MVD_profilaktica_pravonarushenyi/mvd_0_tolerance">Нулевая терпимость</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/MVD_profilaktica_pravonarushenyi/MVD_copyright_and_related_rights">Авторские и смежные права</a> </li></ul>
+<li><a class="expand" href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/gosyazyk">Развитие государственного языка</a> 
+<ul><!--li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/gosyazyk?_piref133_11322833_133_11214606_11214606.selpageid=133,6407433">Сотрудники ДГЯИ</a></li-->
+<li><a class="expand" href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/gosyazyk?_piref133_11322833_133_11214606_11214606.selpageid=133,6407572">Нормативные правовые акты</a> 
+<ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/gosyazyk?_piref133_11322833_133_11214606_11214606.selpageid=133,6423355">Приказы</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/gosyazyk?_piref133_11322833_133_11214606_11214606.selpageid=133,6423393">Гос. программа</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/gosyazyk?_piref133_11322833_133_11214606_11214606.selpageid=133,6423407">Закон</a> </li></ul>
+<li><a class="expand" href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/gosyazyk?_piref133_11322833_133_11214606_11214606.selpageid=133,6442234">Конкурсы</a> 
+<ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/gosyazyk?_piref133_11322833_133_11214606_11214606.selpageid=133,23467666">Парасатты полицей-2014</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/gosyazyk?_piref133_11322833_133_11214606_11214606.selpageid=133,23467666">Парасатты полицей-2013</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/gosyazyk?_piref133_11322833_133_11214606_11214606.selpageid=133,25653830">Творческий конкурс-2013</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/gosyazyk?_piref133_11322833_133_11214606_11214606.selpageid=133,25654320">Архив</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/gosyazyk?_piref133_11322833_133_11214606_11214606.selpageid=133,25656762">СМИ о конкурсе "Парасатты полицей"</a> </li></ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/gosyazyk?_piref133_11322833_133_11214606_11214606.selpageid=133,7184839">Систематизация обучения государственному языку в МВД</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/gosyazyk?_piref133_11322833_133_11214606_11214606.selpageid=133,19363865">Словарь</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_gos_yazyk/C1596F9309CA2E48E044002655122E6A">Развитие государственного языка в органах внутренних дел</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_gos_yazyk/%D0%A2%D0%B8%D0%BB%D0%B4%D0%B5%D1%81%D0%BA%D0%B8%D1%88.htm">Казахско-русский разговорник для сотрудников органов внутренних дел</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_gos_yazyk/%D0%96%D0%BE%D0%BB %D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D0%B8%D1%8F%D1%81%D1%8B %D1%81%D0%B0%D0%BB%D0%B0%D1%81%D1%8B.htm">Русско-казахский разговорник по линии служб органов внутренних дел</a> <!--li><a href="http://">"Парасатты полицей-пәрменді полицей" (видеоролик)</a></li--></li></ul>
+<li><a class="expand" href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/MVD_Sanatorii">Санатории МВД РК</a> 
+<ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/EE3CB4C377403316E044002655122E6A">Санаторий "Арман"</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/EE72B8FB45013ADEE044002655122E6A">Санаторий "Жеке батыр"</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/F095A29045C153EAE044002655122E6A">Санаторий "Шалкар-су"</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/F3BA4E6BD9023F36E044002655122E6A">Санаторий "Казахстан"</a> </li></ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/pension_social">Пенсионное и социальное обеспечение</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/medicine">Медицинское управление</a> 
+<li><a class="expand" href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/goszakyp">Государственные закупки</a> 
+<ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/goszakyp?_piref133_11322330_133_11209937_11209937.selpageid=133,115700">Центральный аппарат МВД</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/goszakyp?_piref133_11322330_133_11209937_11209937.selpageid=133,116598">Подразделения МВД РК</a> </li></ul>
+<li><a class="expand" href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/mvd_otchety">Отчеты</a> 
+<ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/mvd_otchety/mvd_otchet_gosuslugi">Отчеты о государственных услугах</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/mvd_otchety/mvd_otchet_gosprog">Отчеты о реализации государственных программ</a> </li></ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/MVD_Glossary">Глоссарий терминов МВД</a></li><li><a href="http://mvd.gov.kz/portal/page/portal/19D9B4F361803DB4E054002655122E6A">Радиопроект: Тәуелсіздік-1</a></li></ul>
+<li><a>НОРМАТИВНО-ПРАВОВАЯ БАЗА</a> 
+<ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/FE66554BE8815BD0E044002655122E6A">Конституция Республики Казахстан</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/DF7434360B013926E044002655122E6A">Международные договора и соглашения</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/DF719622BC812918E044002655122E6A">Законы</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/glory">Кодекс чести государственного служащего</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/NPB/npb_ukaz">Указы</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/DF70C88F2C4A243CE044002655122E6A">Постановления Правительства РК</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/E07B9688F5863019E044002655122E6A">Приказы</a> <!--<LI><A class=expand href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/NPB/list_serv">Перечень государственных услуг ОВД</A> 
+<UL>
+<LI><A href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/NPB/list_serv?_piref133_11328104_133_11327763_11327763.selpageid=133,26851347">Стандарты</A> 
+<LI><A href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/NPB/list_serv?_piref133_11328104_133_11327763_11327763.selpageid=133,26869948">Регламенты</A> 
+<LI><A href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/NPB/list_serv?_piref133_11328104_133_11327763_11327763.selpageid=133,26945937">Архив</A> </LI></UL>-->
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/reform">Административная реформа</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/E724FB5F2C401A3DE044002655122E6A">Общественное обсуждение проектов НПА</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/E12B84E0A2084590E044002655122E6A">Инструкции, правила и памятки</a> </li></ul>
+<li><a>КОНТАКТЫ</a> 
+<ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_cont/tel_head">Номера телефонов первых руководителей</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_cont/telOVD">Номера телефонов региональных дежурных частей ОВД</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_cont/yuradr">Юридический адрес МВД</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_cont/yuradrOVD">Юридические адреса ОВД</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_cont/teltrust">Телефоны доверия</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_min/priem_gr">График приема граждан</a> </li></ul>
+<li><a>МУЛЬТИМЕДИА</a> 
+<ul class="last">
+<li><a class="expand" href="http://mvd.gov.kz/portal/page/portal/D6532A2C04405DC4E044002655122E6A">Инфографика</a> 
+<ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/F9DBD59F8D010DEDE044002655122E6A">Отраслевая программа</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/F9DD4AFC9B0127C0E044002655122E6A">О работе ОВД</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/F9DC1B995E801318E044002655122E6A">Национальная гвардия РК</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/F06E6451E4C16555E044002655122E6A">Информационно-аналитический центр</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/F07DD54CC8C1077DE044002655122E6A">Комитет уголовно-исполнительной системы</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/F09398D817832CA3E044002655122E6A">Комитет административной полиции</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/F0955513D8C04D4CE044002655122E6A">Департамент миграционной полиции</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/Infographic/info_rus.pdf" target="_blank">Государственные услуги</a> </li></ul>
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/blanki">Бланки</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_iu/conferen">Конференции</a> 
+<li><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/mmedia">Фото-видео материалы</a> </li></ul></li></ul></div>  <link href="Stylesheets/formOutlineWW9047.css" rel="stylesheet" type="text/css"></font>
+</TD></TR>
+<TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:0px 0px 0px 0px;" width="100%"><font class="inplacedisplayid1siteid133">  <style> /* Top-menu horizontal styles----------------------------------------------- */.last{ right: 5px;}.last li ul {    top: 0; left: -290px !important;}#top-menu, #top-menu ul {    list-style: none;}#top-menu ul { width: 300px;}#top-menu {    font-size: 100%;    font: inherit;    vertical-align: right;    text-align: justify; margin-top: 8px;    padding-left: 8px;}#top-menu li {    float: left;    font-size: 16px;    padding: 0;}#top-menu > li {  position: relative;  top: -8px;}#top-menu li ul li{ border: 1px solid #09879B;}#top-menu a {    display: block;    padding: 8px 10px;    color: white;    text-decoration: none;    text-transform: uppercase; text-align:left;font-family: Verdana;}#top-menu li:hover > a {    color:white;    background-color:#B8E1EA;    text-decoration:none;}#top-menu ul, .top-menu_last ul {    opacity: 0;    visibility: hidden;    position: absolute;    z-index: 1000;    -webkit-transition: all .2s ease-in;    -moz-transition: all .2s ease-in;    -ms-transition: all .2s ease-in;    -o-transition: all .2s ease-in;    transition: all .2s ease-in;    -webkit-border-radius:4px;    -moz-border-radius:4px;    border-radius:4px;}#top-menu ul ul {top: 0;left: 100%;}#top-menu li:hover > ul {    opacity: 1;    visibility: visible;    margin: 0;}#top-menu ul li {    float: none;    margin: 0px;    position: relative;}#top-menu ul a {    display:block;    font-family:arial;    font-size:15px;    text-transform:none;    color: #005476;    background-color:#62D3E0;    padding:5px 17px 5px 23px;}#top-menu ul a:hover {    background-color:#B8E1EA;}#top-menu li:hover > .no-transition {    display: block;}#top-menu-wrapper{    height: 40px;    background-color: #09879B;    position: relative;    top: -1px;    border: 1px white;    border-style: solid none;}@media (max-width : 999px) {    #top-menu a {        display:block;        padding:8px 23px 8px 23px;        color:#125884;        text-decoration:none;        text-transform: uppercase;    }    #top-menu .top-menu_last {        background:none;        width:115px;    }    .top-menu_last ul {        position:relative;        width:165px;    }}.expand{ background-image: url(http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/menu-blue.png); background-position: 98% 50%; background-repeat: no-repeat;     background-size: 14px;}.expand:hover{    background-image: url(http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/menu-white.png);}/* iPad */.no-transition {    -webkit-transition: none;    -moz-transition: none;    -ms-transition: none;    -o-transition: none;    transition: none;    opacity: 1;    visibility: visible;    display: none;}</style><meta name="GENERATOR" content="MSHTML 11.00.9600.16428">    </font>
+</TD></TR>
+</TABLE></DIV>
+</DIV></TD></TR>
+</TABLE>
+</DIV></TD></TR>
+</TABLE><TABLE  BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="100%"  summary="">
+<TR>
+<TD VALIGN="top"  width="850">
+<TABLE  WIDTH="100%" id="rg461481"  border="0" cellpadding="0" cellspacing="0" summary=""></TABLE><TABLE  WIDTH="100%" id="rg461467"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:4px 4px 0px 4px;" width="100%"><font class="inplacedisplayid1siteid133">  <meta name="GENERATOR" content="MSHTML 11.00.9600.16663"><div class="block-header">ИНТЕРАКТИВНЫЕ УСЛУГИ</div>     </font>
+</TD></TR>
+<TR>
+<TD COLSPAN="1" WIDTH="100%" ><IMG SRC="/images/pobtrans.gif" height="4" width="1" ALT=""></TD>
+</TR>
+</TABLE><TABLE  WIDTH="100%" id="rg461469"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:4px 4px 0px 4px;" width="100%"><font class="inplacedisplayid1siteid133"><div class="list_carousel_inter"><a class="prevInter" id="prev_inter" href=""><img height="26" class="ex_links_left" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/left.png"></a> <a class="nextInter" id="next_inter" href=""><img height="26" class="ex_links_right" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/right.png"></a> <ul id="inter_carousel"> <li style="width: 230px; height: 75px;"><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_iu/doverie"><img width="230" height="75" alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/line_ru.png"></a> </li> <li style="width: 230px; height: 75px;"><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_iu/speed"><img width="230" height="75" alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/speed_ru.png"></a> </li> <li style="width: 230px; height: 75px;"><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_iu/vopros-otvet"><img width="230" height="75" alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/qa_ru.png"></a> </li> <li style="width: 230px; height: 75px;"><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_iu/upp"><img width="230" height="75" alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/police_ru.png"></a> </li> <li style="width: 230px; height: 75px;"><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_iu/kravto"><img width="230" height="75" alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/crime_auto_ru.png"></a> </li> <li style="width: 230px; height: 75px;"><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_iu/krtel"><img width="230" height="75" alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/crime_phone_ru.png"></a> </li> <li style="width: 230px; height: 75px;"><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_iu/oplata"><img width="230" height="75" alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/pay_ru.png"></a> </li> <li style="width: 230px; height: 75px;"><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_main1/mvd_anketa1"><img width="230" height="75" alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/anket_ru.png"></a> </li> <li style="width: 230px; height: 75px;"><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_iu/conferen"><img width="230" height="75" alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/conf_ru.png"></a> </li></ul></div> </font>
+</TD></TR>
+<TR>
+<TD COLSPAN="1" WIDTH="100%" ><IMG SRC="/images/pobtrans.gif" height="4" width="1" ALT=""></TD>
+</TR>
+</TABLE><TABLE  BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="100%"  summary="">
+<TR>
+<TD VALIGN="top"  width="425">
+<TABLE  WIDTH="100%" id="rg461474"  border="0" cellpadding="0" cellspacing="0" summary=""></TABLE></TD>
+<TD VALIGN="top"  width="425">
+<TABLE  WIDTH="100%" id="rg461478"  border="0" cellpadding="0" cellspacing="0" summary=""></TABLE></TD>
+</TR>
+</TABLE>
+<TABLE  WIDTH="100%" id="rg461482"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:4px 4px 0px 4px;" width="100%"><div class="block-header" id="title-holder">
+</div> 
+<script type="text/javascript"> 
+$( document ).ready(function() {
+    $( "#title-holder").text($("title").html());
+});
+</script>	
+
+</TD></TR>
+<TR>
+<TD COLSPAN="1" WIDTH="100%" ><IMG SRC="/images/pobtrans.gif" height="4" width="1" ALT=""></TD>
+</TR>
+</TABLE><TABLE  WIDTH="100%" id="rg461486"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:4px 4px 0px 4px;" width="100%"><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD" ><font class="titleorimageid1siteid133">МВД РК</font></a><font class="titleid1siteid133">-</font>
+<a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz" ><font class="titleorimageid1siteid133">РОЗЫСК</font></a><font class="titleid1siteid133">-</font>
+<font class="titleid1siteid133">РОЗЫСК ПРЕСТУПНИКОВ</font></TD></TR>
+<TR>
+<TD COLSPAN="1" WIDTH="100%" ><IMG SRC="/images/pobtrans.gif" height="4" width="1" ALT=""></TD>
+</TR>
+</TABLE><TABLE  WIDTH="100%" id="rg461487"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:4px 4px 0px 4px;" width="100%"><DIV id="p133_29015458_133_11308149_11308149"><!-- ========== Render Portlet ========== -->
+<TABLE  BORDER="0" WIDTH="100%" CELLPADDING="0" CELLSPACING="0" class="RegionNoBorder">
+<TR><TD class="RegionHeaderColor" WIDTH="100%"><DIV id="pcnt133_29015458_133_11308149_11308149"><SCRIPT TYPE="text/javascript" SRC="http://mvd.gov.kz/portal/pls/portal/PORTAL.wwv_javascript.fetch_script?p_name=search_form&p_dynamic=y&p_language=ru">
+<!-- Comment out script for old browsers
+//-->
+</SCRIPT>
+<SCRIPT TYPE="text/javascript">
+<!-- Comment out script for old browsers
+
+        function gen_multiple_popup     
+        (
+            p_url,
+            p_popup_height,
+            p_popup_width,
+            p_shuttle_width,
+            p_shuttle_rows,
+            p_shuttle_attributes,
+            p_move_buttons,
+            p_formname,
+            p_sel_values_name, 
+            p_sel_disp_name,
+            p_avail_values_name,
+            p_avail_disp_name,
+            p_title_elem_name,
+            p_desc_elem_name,
+            p_include_select_limit,
+            p_selected_limit,
+            p_return_type,
+            p_unique_values_only
+        )
+        {
+             w = open (p_url +
+                             "&p_formname="+p_formname+
+                             "&p_shuttle_width="+p_shuttle_width+
+                             "&p_shuttle_rows="+p_shuttle_rows+
+                             "&p_shuttle_attributes="+p_shuttle_attributes+
+                             "&p_move_buttons="+p_move_buttons+
+                             "&p_sel_values_name="+p_sel_values_name+
+                             "&p_sel_disp_name="+p_sel_disp_name+
+                             "&p_avail_values_name="+p_avail_values_name+
+                             "&p_avail_disp_name="+p_avail_disp_name+
+                             "&p_title_elem_name="+p_title_elem_name+
+                             "&p_desc_elem_name="+p_desc_elem_name+                             
+                             "&p_include_select_limit="+p_include_select_limit+
+                             "&p_selected_limit="+p_selected_limit+
+                             "&p_return_type="+p_return_type+
+                             "&p_unique_values_only="+p_unique_values_only,
+                       "winLov",                       
+                       "Scrollbars=1,resizable=1,width="+p_popup_width+",height="+p_popup_height
+                       );
+             if (w.opener == null)
+                 w.opener = self;
+
+             w.focus();
+        }
+           
+//-->
+</SCRIPT>
+<FORM ACTION="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz/look" METHOD="POST" name="SEARCH554107_PAGESEARCH_941742897" onSubmit="doSearchSubmit('SUBMIT',document.SEARCHHIDDEN554107_PAGESEARCH_941742897.x554107_p_action,document.SEARCH554107_PAGESEARCH_941742897, document.SEARCHHIDDEN554107_PAGESEARCH_941742897); return false;">
+<INPUT TYPE="hidden" NAME="x554106_d" VALUE="NEXT">
+<INPUT TYPE="hidden" NAME="x554106_fh" VALUE="11">
+<INPUT TYPE="hidden" NAME="x554106_lh" VALUE="20">
+<INPUT TYPE="hidden" NAME="x554106_p_action" VALUE="NP">
+<INPUT TYPE="hidden" NAME="p_calledfrom" VALUE="2">
+<INPUT TYPE="hidden" NAME="x554106_ca" VALUE="878">
+<INPUT TYPE="hidden" NAME="x554106_ca" VALUE="0">
+<INPUT TYPE="hidden" NAME="x554106_ca" VALUE="0">
+<INPUT TYPE="hidden" NAME="x554106_ca" VALUE="0">
+<INPUT TYPE="hidden" NAME="osf" VALUE="">
+<!-- ========== Begin PopulateFormForSearch ========== -->
+<TABLE   border="0" summary="">
+<TR>
+<TD>
+<LABEL FOR="x554107_ms" style="display:none">Окно терминов для поиска</LABEL>
+<INPUT TYPE="text" NAME="ms" SIZE="50" MAXLENGTH="200" id="x554107_ms">
+<INPUT TYPE="submit" NAME="src_submit" VALUE="Поиск" OnClick="doSearchSubmit('SUBMIT', document.SEARCHHIDDEN554107_PAGESEARCH_941742897.x554107_p_action, this.form, document.SEARCHHIDDEN554107_PAGESEARCH_941742897)">
+<INPUT TYPE="hidden" NAME="mo" VALUE="like_all">
+</TD>
+</TR>
+</TABLE>
+<INPUT TYPE="hidden" NAME="sepg" VALUE="133">
+<INPUT TYPE="hidden" NAME="fi" VALUE="115498">
+<INPUT TYPE="hidden" NAME="fs" VALUE="133">
+<INPUT TYPE="hidden" NAME="pu" VALUE="1">
+<INPUT TYPE="hidden" NAME="as" VALUE="">
+<INPUT TYPE="hidden" NAME="p_action" VALUE="SUBMIT">
+<INPUT TYPE="hidden" NAME="ll" VALUE="">
+<!-- ========== End PopulateFormForSearch ========== -->
+</FORM>
+<FORM ACTION="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz/look" METHOD="POST" name="SEARCHHIDDEN554107_PAGESEARCH_941742897" >
+<INPUT TYPE="hidden" NAME="x554106_d" VALUE="NEXT">
+<INPUT TYPE="hidden" NAME="x554106_fh" VALUE="11">
+<INPUT TYPE="hidden" NAME="x554106_lh" VALUE="20">
+<INPUT TYPE="hidden" NAME="x554106_p_action" VALUE="NP">
+<INPUT TYPE="hidden" NAME="p_calledfrom" VALUE="2">
+<INPUT TYPE="hidden" NAME="x554106_ca" VALUE="878">
+<INPUT TYPE="hidden" NAME="x554106_ca" VALUE="0">
+<INPUT TYPE="hidden" NAME="x554106_ca" VALUE="0">
+<INPUT TYPE="hidden" NAME="x554106_ca" VALUE="0">
+<INPUT TYPE="hidden" NAME="osf" VALUE="">
+<INPUT TYPE="hidden" NAME="x554107_ms" VALUE="">
+<INPUT TYPE="hidden" NAME="x554107_mo" VALUE="">
+<INPUT TYPE="hidden" NAME="x554107_sepg" VALUE="">
+<INPUT TYPE="hidden" NAME="x554107_fi" VALUE="">
+<INPUT TYPE="hidden" NAME="x554107_fs" VALUE="">
+<INPUT TYPE="hidden" NAME="x554107_pu" VALUE="">
+<INPUT TYPE="hidden" NAME="x554107_as" VALUE="">
+<INPUT TYPE="hidden" NAME="x554107_p_action" VALUE="">
+<INPUT TYPE="hidden" NAME="x554107_ll" VALUE="">
+</FORM>
+</DIV></TD></TR>
+</TABLE>
+<!-- ========== End Render Portlet ========== -->
+</DIV></TD></TR>
+<TR>
+<TD COLSPAN="1" WIDTH="100%" ><IMG SRC="/images/pobtrans.gif" height="4" width="1" ALT=""></TD>
+</TR>
+</TABLE><TABLE  WIDTH="100%" id="rg461480"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:4px 4px 0px 4px;" width="100%"><font class="inplacedisplayid1siteid133"><!DOCTYPE><html>
+<head>
+<title> Пока без заголовка...</title>
+<meta name="GENERATOR" content="Namo WebEditor">
+<script language="JavaScript">
+<!--
+function namosw_goto_byselect(sel, targetstr)
+{
+  var index = sel.selectedIndex;
+  if (sel.options[index].value != '') {
+     if (targetstr == 'blank') {
+       window.open(sel.options[index].value, 'win1');
+     } else {
+       var frameobj;
+       if (targetstr == '') targetstr = 'self';
+       if ((frameobj = eval(targetstr)) != null)
+         frameobj.location = sel.options[index].value;
+     }
+  }
+}
+// -->
+</script>
+</head>
+<body>
+<form name="form1">
+<p><select name="formselect1" size="1" OnChange="namosw_goto_byselect(this, 'self')">
+        <option selected>Пожалуйста, выберите область</option>
+  <option value="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz/look/Look_ast">г. АСТАНА</option>
+  <option value="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz/look/Look_alm">г. АЛМАТЫ</option>
+  <option value="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz/look/Look_akmo">АКМОЛИНСКАЯ ОБЛАСТЬ</option>
+  <option value="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz/look/Look_akt">АКТЮБИНСКАЯ ОБЛАСТЬ</option>
+  <option value="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz/look/Look_almo">АЛМАТИНСКАЯ ОБЛАСТЬ</option>
+  <option value="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz/look/Look_atr">АТЫРАУСКАЯ ОБЛАСТЬ</option>
+  <option value="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz/look/Look_vko">ВОСТОЧНО-КАЗАХСТАНСКАЯ ОБЛАСТЬ</option>
+  <option value="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz/look/Look_zhm">ЖАМБЫЛСКАЯ ОБЛАСТЬ</option>
+  <option value="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz/look/Look_zko">ЗАПАДНО-КАЗАХСТАНСКАЯ ОБЛАСТЬ</option>
+  <option value="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz/look/Look_krg">КАРАГАНДИНСКАЯ ОБЛАСТЬ</option>
+  <option value="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz/look/Look_kstn">КОСТАНАЙСКАЯ ОБЛАСТЬ</option>
+  <option value="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz/look/Look_kzo">КЫЗЫЛОРДИНСКАЯ ОБЛАСТЬ</option>
+  <option value="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz/look/Look_mng">МАНГИСТАУСКАЯ ОБЛАСТЬ</option>
+  <option value="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz/look/Look_dvdt">ДВД НА ТРАНСПОРТЕ</option>
+  <option value="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz/look/Look_pvl">ПАВЛОДАРСКАЯ ОБЛАСТЬ</option>
+  <option value="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz/look/Look_sko">СЕВЕРО-КАЗАХСТАНСКАЯ ОБЛАСТЬ</option>
+  <option value="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz/look/Look_uko">ЮЖНО-КАЗАХСТАНСКАЯ ОБЛАСТЬ</option>
+</select></p>
+</form>
+</body>
+</html> </font>
+</TD></TR>
+<TR>
+<TD COLSPAN="1" WIDTH="100%" ><IMG SRC="/images/pobtrans.gif" height="4" width="1" ALT=""></TD>
+</TR>
+</TABLE><TABLE  WIDTH="100%" id="rg461488"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:4px 4px 0px 4px;" width="100%"><DIV id="p133_29014711_133_11308149_11308149"><!-- ========== Render Portlet ========== -->
+<TABLE  BORDER="0" WIDTH="100%" CELLPADDING="0" CELLSPACING="0" class="RegionNoBorder">
+<TR><TD class="RegionHeaderColor" WIDTH="100%"><DIV id="pcnt133_29014711_133_11308149_11308149"><LINK REL="stylesheet" TYPE="text/css" HREF="http://mvd.gov.kz/portal/pls/portal/PORTAL.wwv_setting.render_css?p_lang_type=NOBIDI&amp;p_subscriberid=1&amp;p_styleid=1&amp;p_siteid=0&amp;p_rctx=R">
+<TABLE  align="center" width="99%" cellpadding="0" cellspacing="0" border="0">
+<TR>
+<SCRIPT TYPE="text/javascript">
+<!-- Comment out script for old browsers
+
+        function doNextPreviousSubmit(pForm, pDirection, pFirstHit, pLastHit)
+        {
+            pForm.elements[0].value = pDirection;
+            pForm.elements[1].value = pFirstHit;
+            pForm.elements[2].value = pLastHit;
+            pForm.submit();
+        }
+//-->
+</SCRIPT>
+<TD ALIGN="RIGHT">
+<FORM ACTION="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz/look" METHOD="POST" name="SEARCH_DIRECTION_FORM_554106_PAGESEARCH_941742897">
+<INPUT TYPE="hidden" NAME="x554106_d" VALUE="NEXT">
+<INPUT TYPE="hidden" NAME="x554106_fh" VALUE="1">
+<INPUT TYPE="hidden" NAME="x554106_lh" VALUE="10">
+<INPUT TYPE="hidden" NAME="x554106_p_action" VALUE="NP">
+<INPUT TYPE="hidden" NAME="p_calledfrom" VALUE="2">
+<INPUT TYPE="hidden" NAME="x554106_ca" VALUE="878">
+<INPUT TYPE="hidden" NAME="x554106_ca" VALUE="0">
+<INPUT TYPE="hidden" NAME="x554106_ca" VALUE="0">
+<INPUT TYPE="hidden" NAME="x554106_ca" VALUE="0">
+</FORM>
+<font class="ItemNameLinkid1siteid6"><a href="javascript:doNextPreviousSubmit(document.SEARCH_DIRECTION_FORM_554106_PAGESEARCH_941742897,'PREV','21','30')" ><img src="http://mvd.gov.kz/images/leftarw.gif" border="0"  align="middle" alt=" Назад 10 "></a></font>&nbsp;
+<FONT class="PortletText1">Элементы 21 - 30 из 878</FONT>
+<font class="ItemNameLinkid1siteid6"><a href="javascript:doNextPreviousSubmit(document.SEARCH_DIRECTION_FORM_554106_PAGESEARCH_941742897,'NEXT','21','30')" ><img src="http://mvd.gov.kz/images/rightarw.gif" border="0"  align="middle" alt=" Далее 10 "></a></font></TD>
+</TR>
+</TABLE>
+<TABLE  align=center cellpadding=0 cellspacing=0 border=0 width="99%">
+<TR VALIGN="middle">
+<TD VALIGN="middle">
+<font class="wwsbr_publishdate_id1siteid0">Дата опубликования: 16.07.2014 12:44</font><BR><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_invest/mvd_look/FE53EA179F813A74E044002655122E6A" target="p_target=_blank"><img src="http://mvd.gov.kz/portal/pls/portal/docs/1/2261979.JPG" border="0"  align="bottom" alt="НЫСАНБАЕВ НУРБОЛ ЕСИРКЕПОВИЧ, 06.07.1985 г.р."></a><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_invest/mvd_look/FE53EA179F813A74E044002655122E6A" target="p_target=_blank"><font class="titleorimageid1siteid0">НЫСАНБАЕВ НУРБОЛ ЕСИРКЕПОВИЧ, 06.07.1985 г.р.</font></a><BR><font class="descriptionid1siteid0">Ст. 177 ч 3 УК РК,
+Мера пресечения – «арест»,
+РД № 12511103410074 от 30.07.2012 года, 
+  Инициатор Аль-Фарабийский ОП УВД Шымкента
+</font>&nbsp;</TD>
+</TR>
+<TR>
+<TD>&nbsp;</TD>
+</TR>
+<TR VALIGN="middle">
+<TD VALIGN="middle">
+<font class="wwsbr_publishdate_id1siteid0">Дата опубликования: 16.07.2014 12:42</font><BR><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_invest/mvd_look/FE53E248B8C139BEE044002655122E6A" target="p_target=_blank"><img src="http://mvd.gov.kz/portal/pls/portal/docs/1/2261977.JPG" border="0"  align="bottom" alt="ХАСАНОВА ГУЛЗИПА ЖАКАНШАКЫЗЫ, 11.02.1964 г.р."></a><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_invest/mvd_look/FE53E248B8C139BEE044002655122E6A" target="p_target=_blank"><font class="titleorimageid1siteid0">ХАСАНОВА ГУЛЗИПА ЖАКАНШАКЫЗЫ, 11.02.1964 г.р.</font></a><BR><font class="descriptionid1siteid0">Ст. 177 ч 3 УК РК,
+Мера пресечения – «арест»,
+РД № 11511103410002 от 05.01.2011 года, 
+  Инициатор Аль-Фарабийский ОП УВД Шымкента
+</font>&nbsp;</TD>
+</TR>
+<TR>
+<TD>&nbsp;</TD>
+</TR>
+<TR VALIGN="middle">
+<TD VALIGN="middle">
+<font class="wwsbr_publishdate_id1siteid0">Дата опубликования: 16.07.2014 12:40</font><BR><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_invest/mvd_look/FE53DCFAB08139A0E044002655122E6A" target="p_target=_blank"><img src="http://mvd.gov.kz/portal/pls/portal/docs/1/2261976.JPG" border="0"  align="bottom" alt="ДУЙСЕНБЕКОВА АЙНУР СУЛТАНБЕКОВНА, 14.06.1968 г.р."></a><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_invest/mvd_look/FE53DCFAB08139A0E044002655122E6A" target="p_target=_blank"><font class="titleorimageid1siteid0">ДУЙСЕНБЕКОВА АЙНУР СУЛТАНБЕКОВНА, 14.06.1968 г.р.</font></a><BR><font class="descriptionid1siteid0">Ст. 177 ч 3 УК РК,
+Мера пресечения – «арест»,
+РД № 10511103410087 от 22.08.2010 года, 
+  Инициатор Аль-Фарабийский ОП УВД Шымкента
+</font>&nbsp;</TD>
+</TR>
+<TR>
+<TD>&nbsp;</TD>
+</TR>
+<TR VALIGN="middle">
+<TD VALIGN="middle">
+<font class="wwsbr_publishdate_id1siteid0">Дата опубликования: 16.07.2014 12:39</font><BR><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_invest/mvd_look/FE53D88247C5396AE044002655122E6A" target="p_target=_blank"><img src="http://mvd.gov.kz/portal/pls/portal/docs/1/2261975.JPG" border="0"  align="bottom" alt="ИСЛАМКУЛОВ АЗАМАТ ТИЛЕУБАЕВИЧ, 24.04.1979 г.р."></a><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_invest/mvd_look/FE53D88247C5396AE044002655122E6A" target="p_target=_blank"><font class="titleorimageid1siteid0">ИСЛАМКУЛОВ АЗАМАТ ТИЛЕУБАЕВИЧ, 24.04.1979 г.р.</font></a><BR><font class="descriptionid1siteid0">Ст. 177 ч 3 УК РК,
+Мера пресечения – «арест»,
+РД № 09511103410107 от 11.12.2009 года, 
+  Инициатор Аль-Фарабийский ОП УВД Шымкента
+</font>&nbsp;</TD>
+</TR>
+<TR>
+<TD>&nbsp;</TD>
+</TR>
+<TR VALIGN="middle">
+<TD VALIGN="middle">
+<font class="wwsbr_publishdate_id1siteid0">Дата опубликования: 16.07.2014 12:38</font><BR><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_invest/mvd_look/FE53D51C87823915E044002655122E6A" target="p_target=_blank"><img src="http://mvd.gov.kz/portal/pls/portal/docs/1/2261974.JPG" border="0"  align="bottom" alt="ЭСКУЛОВА АЙТКУЛ СЕЙДАЛИЕВНА, 06.05.1989 г.р."></a><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_invest/mvd_look/FE53D51C87823915E044002655122E6A" target="p_target=_blank"><font class="titleorimageid1siteid0">ЭСКУЛОВА АЙТКУЛ СЕЙДАЛИЕВНА, 06.05.1989 г.р.</font></a><BR><font class="descriptionid1siteid0">Ст. 257 ч 1 УК РК,
+Мера пресечения – «арест»,
+РД № 13511103410064 от 19.08.2013 года, 
+  Инициатор Аль-Фарабийский ОП УВД Шымкента
+</font>&nbsp;</TD>
+</TR>
+<TR>
+<TD>&nbsp;</TD>
+</TR>
+<TR VALIGN="middle">
+<TD VALIGN="middle">
+<font class="wwsbr_publishdate_id1siteid0">Дата опубликования: 16.07.2014 12:37</font><BR><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_invest/mvd_look/FE53CE41C4C538C9E044002655122E6A" target="p_target=_blank"><img src="http://mvd.gov.kz/portal/pls/portal/docs/1/2261973.JPG" border="0"  align="bottom" alt="ДЖУМАБАЕВ ЖАНДОС ПАРДАБАЕВИЧ, 16.12.1986 г.р."></a><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_invest/mvd_look/FE53CE41C4C538C9E044002655122E6A" target="p_target=_blank"><font class="titleorimageid1siteid0">ДЖУМАБАЕВ ЖАНДОС ПАРДАБАЕВИЧ, 16.12.1986 г.р.</font></a><BR><font class="descriptionid1siteid0">Ст. 178 ч 2 УК РК,
+Мера пресечения – «арест»,
+РД № 12511103410076 от 02.08.2012 года, 
+  Инициатор Аль-Фарабийский ОП УВД Шымкента 
+</font>&nbsp;</TD>
+</TR>
+<TR>
+<TD>&nbsp;</TD>
+</TR>
+<TR VALIGN="middle">
+<TD VALIGN="middle">
+<font class="wwsbr_publishdate_id1siteid0">Дата опубликования: 16.07.2014 12:36</font><BR><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_invest/mvd_look/FE53CDD6F50338CFE044002655122E6A" target="p_target=_blank"><img src="http://mvd.gov.kz/portal/pls/portal/docs/1/2261972.JPG" border="0"  align="bottom" alt="АБДРАХМАН ГАБИТ ЕРСУЛТАНУЛЫ, 23.02.1968 г.р."></a><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_invest/mvd_look/FE53CDD6F50338CFE044002655122E6A" target="p_target=_blank"><font class="titleorimageid1siteid0">АБДРАХМАН ГАБИТ ЕРСУЛТАНУЛЫ, 23.02.1968 г.р.</font></a><BR><font class="descriptionid1siteid0">Ст. 177 ч 2 УК РК,
+Мера пресечения – «арест»,
+РД № 13511103410133 от 26.11.2013 года, 
+  Инициатор Абайский ОП УВД Шымкента ДВД ЮКО
+</font>&nbsp;</TD>
+</TR>
+<TR>
+<TD>&nbsp;</TD>
+</TR>
+<TR VALIGN="middle">
+<TD VALIGN="middle">
+<font class="wwsbr_publishdate_id1siteid0">Дата опубликования: 16.07.2014 12:35</font><BR><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_invest/mvd_look/FE53C9E7E08038B7E044002655122E6A" target="p_target=_blank"><img src="http://mvd.gov.kz/portal/pls/portal/docs/1/2261971.JPG" border="0"  align="bottom" alt="ОШАНБАЕВ ЖУМАБЕК, 17.08.1956 г.р."></a><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_invest/mvd_look/FE53C9E7E08038B7E044002655122E6A" target="p_target=_blank"><font class="titleorimageid1siteid0">ОШАНБАЕВ ЖУМАБЕК, 17.08.1956 г.р.</font></a><BR><font class="descriptionid1siteid0">Ст. 104 ч 2 УК РК,
+Мера пресечения – «подписка»,
+РД № 101006 от 23.01.2001 года, 
+  Инициатор Абайский ОП УВД Шымкента ДВД ЮКО
+</font>&nbsp;</TD>
+</TR>
+<TR>
+<TD>&nbsp;</TD>
+</TR>
+<TR VALIGN="middle">
+<TD VALIGN="middle">
+<font class="wwsbr_publishdate_id1siteid0">Дата опубликования: 16.07.2014 12:34</font><BR><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_invest/mvd_look/FE53C5BBC3013840E044002655122E6A" target="p_target=_blank"><img src="http://mvd.gov.kz/portal/pls/portal/docs/1/2261970.JPG" border="0"  align="bottom" alt="АККУЛОВ САБИТ САРСЕНБАЕВИЧ, 04.03.1982 г.р."></a><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_invest/mvd_look/FE53C5BBC3013840E044002655122E6A" target="p_target=_blank"><font class="titleorimageid1siteid0">АККУЛОВ САБИТ САРСЕНБАЕВИЧ, 04.03.1982 г.р.</font></a><BR><font class="descriptionid1siteid0">Ст. 175 ч 1 УК РК,
+Мера пресечения – «арест»,
+РД № 501077 от 03.10.2005 года, 
+  Инициатор Абайский ОП УВД Шымкента ДВД ЮКО
+</font>&nbsp;</TD>
+</TR>
+<TR>
+<TD>&nbsp;</TD>
+</TR>
+<TR VALIGN="middle">
+<TD VALIGN="middle">
+<font class="wwsbr_publishdate_id1siteid0">Дата опубликования: 16.07.2014 12:33</font><BR><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_invest/mvd_look/FE53C209B7813826E044002655122E6A" target="p_target=_blank"><img src="http://mvd.gov.kz/portal/pls/portal/docs/1/2261969.JPG" border="0"  align="bottom" alt="ИКРАМОВ МУХИДИН ПАЗИЛОВИЧ, 09.10.1965 г.р."></a><a href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_page/mvd_invest/mvd_look/FE53C209B7813826E044002655122E6A" target="p_target=_blank"><font class="titleorimageid1siteid0">ИКРАМОВ МУХИДИН ПАЗИЛОВИЧ, 09.10.1965 г.р.</font></a><BR><font class="descriptionid1siteid0">Ст. 24-175 ч 2 УК РК,
+Мера пресечения – «подписка»,
+РД № 601086 от 05.12.2006 года, 
+  Инициатор Абайский ОП УВД Шымкента ДВД ЮКО 
+</font>&nbsp;</TD>
+</TR>
+<TR>
+<TD>&nbsp;</TD>
+</TR>
+</TABLE>
+<BR>
+</DIV></TD></TR>
+</TABLE>
+<!-- ========== End Render Portlet ========== -->
+</DIV></TD></TR>
+<TR>
+<TD COLSPAN="1" WIDTH="100%" ><IMG SRC="/images/pobtrans.gif" height="4" width="1" ALT=""></TD>
+</TR>
+</TABLE><TABLE  WIDTH="100%" id="rg461489"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:4px 4px 0px 4px;" width="100%"><font class="inplacedisplayid1siteid133">
+<META name=GENERATOR content="MSHTML 9.00.8112.16447">
+<A href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz/look">ВОЗОБНОВИТЬ ПОИСК</A></font>
+</TD></TR>
+<TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:0px 4px 0px 4px;" width="100%"><font class="inplacedisplayid1siteid133">
+<META name=GENERATOR content="MSHTML 9.00.8112.16447">
+
+<HR>
+</font>
+</TD></TR>
+<TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:0px 4px 0px 4px;" width="100%"><font class="inplacedisplayid1siteid133"><script src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/java_scripts/jssor.js" type="text/javascript"> </script> <script src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/java_scripts/jssor.slider.js" type="text/javascript"> </script> <script>    jQuery(document).ready(function ($) { $.ajax({ url: 'http://mvd.gov.kz/ItemImage/getimages', type: 'GET', data: 'url='+window.location.pathname, success: function(data) { //called when successful $('#slider_images').html(data); $('#slider2_container').show(); initSlider(); }, error: function(e) { $('#slider2_container').hide(); } }); }); function initSlider(){ var options = { $AutoPlay: true, //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false $AutoPlaySteps: 1, //[Optional] Steps to go for each navigation request (this options applys only when slideshow disabled), the default value is 1 $AutoPlayInterval: 4000, //[Optional] Interval (in milliseconds) to go for next slide since the previous stopped if the slider is auto playing, default value is 3000 $PauseOnHover: 1, //[Optional] Whether to pause when mouse over if a slider is auto playing, 0 no pause, 1 pause for desktop, 2 pause for touch device, 3 pause for desktop and touch device, 4 freeze for desktop, 8 freeze for touch device, 12 freeze for desktop and touch device, default value is 1 $ArrowKeyNavigation: true, //[Optional] Allows keyboard (arrow key) navigation or not, default value is false $SlideDuration: 500, //[Optional] Specifies default duration (swipe) for slide in milliseconds, default value is 500 $MinDragOffsetToSlide: 20, //[Optional] Minimum drag offset to trigger slide , default value is 20 //$SlideWidth: 600, //[Optional] Width of every slide in pixels, default value is width of 'slides' container //$SlideHeight: 300, //[Optional] Height of every slide in pixels, default value is height of 'slides' container $SlideSpacing: 0, //[Optional] Space between each slide in pixels, default value is 0 $DisplayPieces: 1, //[Optional] Number of pieces to display (the slideshow would be disabled if the value is set to greater than 1), the default value is 1 $ParkingPosition: 0, //[Optional] The offset position to park slide (this options applys only when slideshow disabled), default value is 0. $UISearchMode: 1, //[Optional] The way (0 parellel, 1 recursive, default value is 1) to search UI components (slides container, loading screen, navigator container, arrow navigator container, thumbnail navigator container etc). $PlayOrientation: 1, //[Optional] Orientation to play slide (for auto play, navigation), 1 horizental, 2 vertical, 5 horizental reverse, 6 vertical reverse, default value is 1 $DragOrientation: 3, //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0) $ArrowNavigatorOptions: { $Class: $JssorArrowNavigator$, //[Requried] Class to create arrow navigator instance $ChanceToShow: 1, //[Required] 0 Never, 1 Mouse Over, 2 Always $AutoCenter: 2, //[Optional] Auto center arrows in parent container, 0 No, 1 Horizontal, 2 Vertical, 3 Both, default value is 0 $Steps: 1 //[Optional] Steps to go for each navigation request, default value is 1 }, $ThumbnailNavigatorOptions: { $Class: $JssorThumbnailNavigator$, //[Required] Class to create thumbnail navigator instance $ChanceToShow: 2, //[Required] 0 Never, 1 Mouse Over, 2 Always $ActionMode: 1, //[Optional] 0 None, 1 act by click, 2 act by mouse hover, 3 both, default value is 1 $AutoCenter: 3, //[Optional] Auto center thumbnail items in the thumbnail navigator container, 0 None, 1 Horizontal, 2 Vertical, 3 Both, default value is 3 $Lanes: 1, //[Optional] Specify lanes to arrange thumbnails, default value is 1 $SpacingX: 3, //[Optional] Horizontal space between each thumbnail in pixel, default value is 0 $SpacingY: 3, //[Optional] Vertical space between each thumbnail in pixel, default value is 0 $DisplayPieces: 9, //[Optional] Number of pieces to display, default value is 1 $ParkingPosition: 260, //[Optional] The offset position to park thumbnail $Orientation: 1, //[Optional] Orientation to arrange thumbnails, 1 horizental, 2 vertical, default value is 1 $DisableDrag: false //[Optional] Disable drag or not, default value is false } }; var jssor_slider2 = new $JssorSlider$("slider2_container", options); if (!navigator.userAgent.match(/(iPhone|iPod|iPad|BlackBerry|IEMobile)/)) { $(window).bind('resize', ScaleSlider); } } </script> <meta name="GENERATOR" content="MSHTML 11.00.9600.16428"> <link href="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/Files/jquery-ui.css" rel="stylesheet" type="text/css"> <script src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/Files/jquery-ui.min.js"> </script> <script type="text/javascript">    function newPopup(url) { url += document.URL + '&title=' + document.title; popupWindow = window.open(url, 'popUpWindow', 'height=700,width=800,left=10,top=10,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes'); } </script><br> <div>     <a title="Поделиться в Facebook" onclick="newPopup('http://share.yandex.ru/go.xml?service=facebook&url='); return false;" href="#">         <img alt="Facebook" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/sharelinks/facebook.png"></a>     <!-- Twitter -->     <a title="Твитнуть в Twitter" onclick="newPopup('http://share.yandex.ru/go.xml?service=twitter&url='); return false;" href="#">         <img alt="Facebook" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/sharelinks/twitter.png"></a>     <!-- Google+ -->     <a title="Поделиться в Google+" onclick="newPopup('http://share.yandex.ru/go.xml?service=gplus&url='); return false;" href="#">         <img alt="Facebook" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/sharelinks/google.png"></a>     <!-- Вконтакте -->     <a title="Поделиться в ВКонтакте" onclick="newPopup('http://share.yandex.ru/go.xml?service=vkontakte&url='); return false;" href="#">         <img alt="Facebook" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/sharelinks/vk.png"></a>     <!-- Мой мир -->     <a title="Поделиться в Мой мир" onclick="newPopup('http://share.yandex.ru/go.xml?service=moimir&url='); return false;" href="#">         <img alt="Facebook" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/sharelinks/mymail.png">     </a> </div> <div style="clear: both;"> </div> <style type="text/css">    .ui-widget {        font-size: 12px;        text-align: left;    } </style> <script type="text/javascript">    $('#save_link').attr('href', window.location); $('#url').attr('value',window.location); $('#pageTitle').attr('value',$(document).find("head title").text()); $('#lang').attr('value',lang); var errorMassage=""; var mailRuTitle = ""; var vkTitle = ""; var fbTitle = ""; var twitterTitle = ""; if(lang=='ru'){ $('#send_link').attr('title','Отправить другу'); $('#print_link').attr('title','Версия для печати'); $('#save_link').attr('title','Сохранить'); $('#sendToFriend').attr('title','Отправить другу'); $('#fromLabel').text('От кого'); $('#toLabel').text('Кому'); $('#from').attr('placeholder','Ваше имя'); $('#fromMail').attr('placeholder','Ваш email'); $('#to').attr('placeholder','Имя получателя'); $('#toMail').attr('placeholder','Еmail получателя'); $('#submitButton').attr('value','Отправить'); $('#cancelButton').attr('value','Отменить'); errorMassage = "Случилось техническая ошибка"; mailRuTitle = "Майл – рекомендую"; vkTitle = "В контакте – это интересно"; fbTitle = "Поделиться в Facebook"; twitterTitle = "Добавить в Twitter"; } if(lang=='kz'){ $('#send_link').attr('title','Досыңызға жіберу'); $('#print_link').attr('title','Басып шығаруға арналған нұсқа'); $('#save_link').attr('title','Сақтау'); $('#sendToFriend').attr('title','Досыңызға жіберу'); $('#fromLabel').text('Кімнен'); $('#toLabel').text('Кімге'); $('#from').attr('placeholder','Атыңыз'); $('#fromMail').attr('placeholder','Еmail-ңіз'); $('#to').attr('placeholder','Қабылдаушының аты'); $('#toMail').attr('placeholder','Қабылдаушының email-і'); $('#submitButton').attr('value','Жіберу'); $('#cancelButton').attr('value','Болдырмау'); errorMassage = "Техникалық қате шықты"; mailRuTitle = "Майл – ұсынам"; vkTitle = "В контакте – бұл қызық"; fbTitle = "Facebook-та бөлісу"; twitterTitle = "Twitter-ге қосу"; } if(lang=='en'){ $('#send_link').attr('title','Send to friend'); $('#print_link').attr('title','Print'); $('#save_link').attr('title','Save'); $('#sendToFriend').attr('title','Send to friend'); $('#fromLabel').text('From'); $('#toLabel').text('To'); $('#from').attr('placeholder','Your name'); $('#fromMail').attr('placeholder','Your email'); $('#to').attr('placeholder','Recipent name'); $('#toMail').attr('placeholder','Recipent email'); $('#submitButton').attr('value','Send'); $('#cancelButton').attr('value','Cancel'); errorMassage = "Error"; mailRuTitle = "Mail – I recommend"; vkTitle = "VK – it's interesting"; fbTitle = "Share in Facebook"; twitterTitle = "Add to Twitter"; } $("#sendToFriendForm").submit(function() { $('#submitButton').attr('disabled','disabled'); var url = "http://mvd.gov.kz/sendtofriend/send"; $.ajax({ type: "POST", url: url, data: $("#sendToFriendForm").serialize(), success: function(data) { $("#sendToFriend").dialog("close"); $('#submitButton').removeAttr('disabled'); if(data.indexOf("-1") >=0 || data.indexOf("0") >=0){ alert(errorMassage); } }, error: function (request, status, error) { $("#sendToFriend").dialog("close"); $('#submitButton').removeAttr('disabled'); alert(errorMassage); } }); return false; }); $("#send_link").click(function() { $("#sendToFriend").dialog({ draggable: false, resizable: false, position: { of: $( "#send_link" ), my: "right top", at: "right bottom"}, width: 380 }); return false; }); $("#cancelButton").click(function() { $("#sendToFriend").dialog("close"); }); </script> <script type="text/javascript">    function onPrint(){ var text=$("#print_link").closest("table").find("tr:first > td:first").html();        title=$(document).find("head title").text(); backlink=document.location.href;         var printwin=open('#','printwin','width=1000,height=700'); printwin.document.open();         printwin.document.writeln('<html lang="ru"><title>'+title+'</title><body onload="print();close();">');         printwin.document.writeln(text); printwin.document.writeln('<a href="'+backlink+'"><i>'+backlink+'</i></a>');         printwin.document.writeln(''); printwin.document.close(); }; </script> <script src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/Files/share42.js" type="text/javascript"> </script> <script type="text/javascript">    $( document ).ready(function() { $(".share42-item a").attr("title", function(i, oldTitle) { title=''; if(i==0){ title = mailRuTitle; } if(i==1){ title = vkTitle; } if(i==2){ title = fbTitle; } if(i==3){ title = twitterTitle; } return title; }); }); </script> <link href="Stylesheets/formOutlineWW9047.css" rel="stylesheet" type="text/css"> <link href="Stylesheets/formOutlineWW9047.css" rel="stylesheet" type="text/css"> <link href="Stylesheets/formOutlineWW9047.css" rel="stylesheet" type="text/css"> <link href="Stylesheets/formOutlineWW9047.css" rel="stylesheet" type="text/css"><link href="Stylesheets/formOutlineWW9047.css" rel="stylesheet" type="text/css">  <link href="Stylesheets/formOutlineWW9047.css" rel="stylesheet" type="text/css">  <link href="Stylesheets/formOutlineWW9047.css" rel="stylesheet" type="text/css">  <link href="Stylesheets/formOutlineWW9047.css" rel="stylesheet" type="text/css">  <link href="Stylesheets/formOutlineWW9047.css" rel="stylesheet" type="text/css">  </font>
+</TD></TR>
+<TR>
+<TD COLSPAN="1" WIDTH="100%" ><IMG SRC="/images/pobtrans.gif" height="4" width="1" ALT=""></TD>
+</TR>
+</TABLE><TABLE  WIDTH="100%" id="rg461490"  border="0" cellpadding="0" cellspacing="0" summary=""></TABLE></TD>
+<TD VALIGN="top"  width="250">
+<TABLE  WIDTH="100%" id="rg461463"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:0px 0px 0px 0px;" width="100%"><DIV id="p133_31263476_133_11308149_11308149"><SCRIPT TYPE="text/javascript">
+function get_ip() {
+var userIp = "147.30.12.235";
+return userIp;
+} 
+</script>
+<div id="lang-container"><A href="http://infra1.gov.kz:7777/pls/orasso/orasso.wwctx_app_language.set_language?p_http_language=tr-tr&p_nls_language=tr&p_nls_territory=TURKEY&p_requested_url=http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpls%2Fportal%2FPORTAL.wwctx_app_language.set_language%3Fp_http_language%3Dtr-tr%26p_nls_language%3Dtr%26p_nls_territory%3DTURKEY%26p_requested_url%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Fmvd_nav_roz%2Flook"><img class="lang_btn" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/kaz.png"/></A>
+   <A href="http://infra1.gov.kz:7777/pls/orasso/orasso.wwctx_app_language.set_language?p_http_language=ru-ru&p_nls_language=ru&p_nls_territory=CIS&p_requested_url=http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpls%2Fportal%2FPORTAL.wwctx_app_language.set_language%3Fp_http_language%3Dru-ru%26p_nls_language%3Dru%26p_nls_territory%3DCIS%26p_requested_url%3Dhttp%253A%252F%252Fmvd.gov.kz%252Fportal%252Fpage%252Fportal%252Fmvd%252FMVD%252Fmvd_nav_roz%252Flook"><img class="lang_btn" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/rus.png"/></A>
+   <A href="http://infra1.gov.kz:7777/pls/orasso/orasso.wwctx_app_language.set_language?p_http_language=en-us&p_nls_language=us&p_nls_territory=AMERICA&p_requested_url=http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpls%2Fportal%2FPORTAL.wwctx_app_language.set_language%3Fp_http_language%3Den-us%26p_nls_language%3Dus%26p_nls_territory%3DAMERICA%26p_requested_url%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Fmvd_nav_roz%2Flook"><img class="lang_btn" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/eng.png"/></A></div>
+</DIV></TD></TR>
+<TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:0px 0px 0px 0px;" width="100%"><DIV id="p133_31263479_133_11308149_11308149"><script language="javascript">
+    function loginSubmit() 
+    { 
+      if(document.loginForm.ssousername.value.length == 0) 
+      { 
+        alert("АВТОРИЗАЦИЯ"); 
+        document.loginForm.ssousername.focus(); 
+        return false; 
+        } 
+      else 
+        if (document.loginForm.p_request.value.length == 0) 
+        { 
+          alert("АВТОРИЗАЦИЯ"); 
+          document.loginForm.p_request.focus(); 
+          return false; 
+          } 
+        else { 
+          document.loginForm.password.value = (document.loginForm.password.value == "") ? document.loginForm.p_request.value : document.loginForm.password.value; 
+          document.loginForm.p_request.value = ""; 
+          document.loginForm.submit(); 
+          return true; 
+          } 
+      }
+
+    document.cookie="portal_url=aHR0cDovL212ZC5nb3Yua3ovcG9ydGFsL3BhZ2UvcG9ydGFsL212ZC9NVkQvbXZkX25hdl9yb3ovbG9vaw==; path=/"; 
+    </script>
+<div id="login-form"><form name ="loginForm" action="http://infra1.gov.kz:7777/pls/orasso/orasso.wwsso_app_admin.ls_login" method="post" AutoComplete="Off" style="display:inline">
+<input name="site2pstoretoken" type="hidden" value ="v1.2~2C909E6F~38DF8DB620927A5B5CB25FE9D30C389626655BF87FCACB74DCF70F44931963BFE0A384BE544A135AEFDA3EA504547E60F2313C6EFFA6BC4EBD2260D72528959F76020E504D1FF76B4AD5AF2EBD6D3416ECE5B88276A6555BA9F0780B148837B0420111E125C8825E8314945D5DE8C1799EF090C630111AAA187770F6A49EFBB9836CE3E65257CE3773D4D0DAC17B885568489472A49F7E03CF753526D7FC416E5BDBD1A0F51CB4594DAF6638ED258E53F02195102479DEC62371F9707A825CB060394EE3E767C78531ADD6AFE0C22636523CDE2A52D1206251B6C8B75F60A634FE0DDEC7745F6450F1C1B09C1236BA0B7C8391424566E92A">
+<input name="locale" type="hidden" value ="ru">
+<input name="password" type="hidden" value ="">
+<table style="width:155px;" cellpadding="0" cellspacing="0">
+<tbody align="center" valign="top">
+<tr>
+<td colspan="2"><font color="white" font-family="Verdana" style="font-size: 15px; letter-spacing: 1px;">АВТОРИЗАЦИЯ</font></td>
+</tr>
+<tr>
+<TD colspan="2"><INPUT TYPE="text" style="width: 150px; background-color: #09879B; border: white solid 1px; height: 17px; color: white; text-indent: 5px;" NAME="ssousername"></TD>
+</tr>
+<tr>
+<TD colspan="2" style="padding-top: 3px;"><INPUT TYPE="password" style="width: 150px; background-color: #09879B; border: white solid 1px; height: 17px; color: white; text-indent: 5px;" NAME="p_request"></TD>
+</tr>
+<tr>
+<TD align="left" background="#5FCADF" style="padding-top: 3px;">
+              <a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/login"><font size="2" color="white" style="font-weight: normal; font-size:12pt; font-family: Verdana;">Регистрация</font></a>
+          </TD>
+          <TD align="right" style="padding-top: 3px;">
+              <input type="image" name="Login"  value="Войти" style="height: 22px;" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/login.png" onClick="return loginSubmit();" />
+            
+          </TD>
+</tr>
+</tbody>
+</table>
+</form></div>
+</DIV></TD></TR>
+</TABLE><TABLE  WIDTH="100%" id="rg461462"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="CENTER">
+<TD vAlign="top" style="padding:4px 4px 0px 4px;" width="100%"><font class="inplacedisplayid1siteid133"><meta name="GENERATOR" content="MSHTML 11.00.9600.16428"><table width="100%" align="center" border="0" cellspacing="0" cellpadding="0"> <tbody><tr><td align="left"> <form action="http://mvd.gov.kz/portal/page/portal?_type=portlet&amp;_decoration=true&amp;_providerid=750934045&amp;_portletid=2&amp;_referencepath=533440_PORTLET2_750934045&amp;_mode=6&amp;_title=&amp;__ora_wsrp_state=wsrp:normal&amp;_atarget=133_25976236_133_11790572_11790572&amp;__ora_type=block&amp;_backurl=http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_search" method="POST"> <table width="250" border="0" cellspacing="0" cellpadding="5"> <tbody> <tr> <td> <table width="100%" border="0" cellspacing="2" cellpadding="0"> <tbody><tr> <td width="50%"><input name="search_input" class="PortletText1" style="border: 1px solid white; border-image: none; width: 180px; height: 20px; color: white; text-indent: 5px; margin-left: 10px; background-color: rgb(98, 211, 224);" type="text"> <input name="Submit" style="top: 7px; height: 23px; padding-left: 15px; position: relative;" type="image" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/search.png" value="Login"></td> </tr> </tbody></table> </td> </tr> </tbody></table> </form> </td></tr> </tbody></table>   </font>
+</TD></TR>
+<TR>
+<TD COLSPAN="1" WIDTH="100%" ><IMG SRC="/images/pobtrans.gif" height="4" width="1" ALT=""></TD>
+</TR>
+</TABLE><TABLE  WIDTH="100%" id="rg461456"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:4px 4px 0px 4px;" width="100%"><DIV id="p133_31263458_133_11308149_11308149"><SCRIPT TYPE="text/javascript">
+function get_ip() {
+var userIp = "147.30.12.235";
+return userIp;
+} 
+</script>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0><TBODY>
+<TR>
+<TD align="left" valign="top">
+</TD>
+<TD align=left></TD>
+<TD align=left></TD>
+<TD align=left></TD>
+<TD align=left></TD>
+</tbody>
+</table>
+<br>
+</DIV></TD></TR>
+<TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:0px 4px 0px 4px;" width="100%"><DIV id="p133_31263460_133_11308149_11308149"><TABLE  BORDER="0" WIDTH="100%" CELLPADDING="0" CELLSPACING="0" class="RegionNoBorder">
+<TR><TD class="RegionHeaderColor" WIDTH="100%"><DIV id="pcnt133_31263460_133_11308149_11308149"><DIV class="Bodyid1siteid133">
+<TABLE  WIDTH="100%" id="rg457940"  border="0" cellpadding="0" cellspacing="0" summary=""></TABLE><TABLE  WIDTH="100%" id="rg457936"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:0px 0px 0px 0px;" width="100%"><font class="inplacedisplayid1siteid133"><meta name="GENERATOR" content="MSHTML 11.00.9600.17496"><form name="Lnk"><select name="GrpComp" class="dropdown_0fyfn" onchange="window.open(document.Lnk.GrpComp.options[document.Lnk.GrpComp.selectedIndex].value, '_blank');"> <option value="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_min/mvd_web_srtuc">Структурные подразделения</option> <option value="http://mvd.gov.kz/portal/page/portal/InternalTroops/KvvMVD">Национальная гвардия РК</option> <option value="http://emer.gov.kz/index.php?lang=ru">Комитет по чрезвычайным ситуациям</option> <option value="http://mvd.gov.kz/portal/page/portal/CriminalExecutive/KuisNews">Комитет УИС</option> <option value="http://mvd.gov.kz/portal/page/portal/kdp/KDP"> Дорожная безопасность МВД РК</option><option value="http://mvd.gov.kz/portal/page/portal/ast/MAIN">ДВД  г. Астана</option> <option value="http://mvd.gov.kz/portal/page/portal/alm/ALM">ДВД  г. Алматы</option><option value="http://mvd.gov.kz/portal/page/portal/almo/MAIN">ДВД  Алматинской области</option> <option value="http://mvd.gov.kz/portal/page/portal/akt/MAIN">ДВД  Актюбинской области</option><option value="http://mvd.gov.kz/portal/page/portal/akm/MAIN">ДВД  Акмолинской области</option> <option value="http://mvd.gov.kz/portal/page/portal/atr/MAIN">ДВД  Атырауской области</option> <option value="http://mvd.gov.kz/portal/page/portal/vko/MAIN">ДВД  Восточно-Казахстанской области</option><option value="http://mvd.gov.kz/portal/page/portal/zhm/MAIN">ДВД  Жамбылской области</option><option value="http://mvd.gov.kz/portal/page/portal/zko/ZKO">ДВД  Западно-Казахстанской области</option> <option value="http://mvd.gov.kz/portal/page/portal/krg/MAIN">ДВД  Карагандинской области</option><option value="http://mvd.gov.kz/portal/page/portal/kstn/MAIN">ДВД  Костанайской области</option><option value="http://mvd.gov.kz/portal/page/portal/kzo/MAIN">ДВД  Кызылординской области</option><option value="http://mvd.gov.kz/portal/page/portal/mng/MAIN">ДВД  Мангистауской области</option><option value="http://mvd.gov.kz/portal/page/portal/pvld/MAIN">ДВД  Павлодарской области</option><option value="http://mvd.gov.kz/portal/page/portal/sko/MAIN">ДВД  Северо-Казахстанской области</option><option value="http://mvd.gov.kz/portal/page/portal/uko/MAIN">ДВД  Южно-Казахстанской области</option><option value="http://mvd.gov.kz/portal/page/portal/tr/MAIN">ДВД  на транспорте</option></select></form>       </font>
+</TD></TR>
+<TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:8px 0px 0px 0px;" width="100%"><a href="http://mvd.gov.kz/portal/page/portal/D1017F32068C3BFBE044002655122E6A" ><img src="http://mvd.gov.kz/portal/pls/portal/docs/1/2637708.PNG" border="0"  align="bottom" alt="Послание Президента РК"></a><BR>
+</TD></TR>
+<TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:8px 0px 0px 0px;" width="100%"><a href="http://mvd.gov.kz/portal/page/portal/24FA275726001FB7E054002655122E6A" ><img src="http://mvd.gov.kz/portal/pls/portal/docs/1/3016271.PNG" border="0"  align="bottom" alt="100 конкретных шагов"></a><BR>
+</TD></TR>
+<TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:8px 0px 0px 0px;" width="100%"><a href="http://blogs.e.gov.kz/ru/site" target="p_target=_blank"><img src="http://mvd.gov.kz/portal/pls/portal/docs/1/2837742.PNG" border="0"  align="bottom" alt=""></a><BR>
+</TD></TR>
+<TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:8px 0px 0px 0px;" width="100%"><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_activ/Radioproject" ><img src="http://mvd.gov.kz/portal/pls/portal/docs/1/2817755.PNG" border="0"  align="bottom" alt="RP"></a><BR>
+</TD></TR>
+<TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:8px 0px 0px 0px;" width="100%"><a href="http://mvd.gov.kz/portal/page/portal/26536D9251831A31E054002655122E6A" ><img src="http://mvd.gov.kz/portal/pls/portal/docs/1/3024437.PNG" border="0"  align="bottom" alt="Для граждан"></a><BR>
+</TD></TR>
+<TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:8px 0px 0px 0px;" width="100%"><a href="http://mvd.gov.kz/portal/page/portal/D6532A2C04405DC4E044002655122E6A" ><img src="http://mvd.gov.kz/portal/pls/portal/docs/1/2637744.GIF" border="0"  align="bottom" alt="Инфографика"></a><BR>
+</TD></TR>
+</TABLE><TABLE  WIDTH="100%" id="rg457938"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:0px 0px 0px 0px;" width="100%"><DIV id="p133_31263460_133_11308149_11308149-133_31117949_133_31116896_31116896"><TABLE BORDER="0" WIDTH="100%" CELLPADDING="2" CELLSPACING="0" class="RegionNoBorder">
+<TR><TD class="RegionHeaderColor" WIDTH="100%" DIR="LTR" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://mvd.gov.kz/images/mvd/cloud/swfobject.js"></script>
+  <div id="3dcloud_block" style="width: 250px;border: solid 1px #2F8BC6;"> Для отображения блока требуется
+    <noindex>
+      <a rel="nofollow" href="http://get.adobe.com/ru/flashplayer/otherversions/" target="_blank" title="Скачать Flash Player">Flash Player</a>
+    </noindex>
+    <br>
+    <br>
+  </div>
+
+<script type="text/javascript">
+    var rnumber = Math.floor(Math.random()*9999999);
+    var so = new SWFObject("http://mvd.gov.kz/images/mvd/cloud/tagcloud.swf?r="+rnumber,"tagcloudflash", "250", "250", "5");
+    so.addParam("wmode", "transparent");
+    so.addParam("allowScriptAccess", "always");
+    so.addParam("bgcolor", "#B0DFE8");
+    so.addVariable("tspeed", "120");
+    so.addVariable("distr", "true");
+    so.addVariable("mode", "tags");
+    so.addVariable("minFontSize", "5");
+    so.addVariable("maxFontSize", "10");
+    so.addVariable("tcolor", "0x2353A7");
+    so.addVariable("tcolor2", "0x5D84C4");
+    so.addVariable("hicolor", "0x09869A");
+    so.addVariable("tagcloud", "<tags>"+
+
+    
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D10905925' style='font-size: 9'>ВУЗы</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D10905939' style='font-size: 9'>Вакансии</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D10905959' style='font-size: 10'>Книга памяти</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D10906018' style='font-size: 9'>Аттестация</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D10906200' style='font-size: 10'>Миграция</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D10906346' style='font-size: 12'>Наркобизнес</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D10906417' style='font-size: 9'>Штрафы</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D10906430' style='font-size: 9'>Коррупция</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D10906451' style='font-size: 9'>Новости</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D10906463' style='font-size: 9'>СМИ</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D10906475' style='font-size: 10'>Послание Президента</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D10906492' style='font-size: 9'>Министр</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D10906527' style='font-size: 9'>Законодательство</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D10906543' style='font-size: 9'>Ваши права</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D10906564' style='font-size: 11'>Внутренние войска</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D10906579' style='font-size: 18'>Дорожная полиция</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D10906596' style='font-size: 11'>Тюремная система</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D26118744' style='font-size: 9'>Общественный совет</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D26118788' style='font-size: 9'>НПО</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D26118803' style='font-size: 10'>Правопорядок</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D26118818' style='font-size: 13'>Общественный порядок</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D26118833' style='font-size: 11'>Встречи</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D26118851' style='font-size: 10'>Общественная безопасность</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D26118879' style='font-size: 18'>Акция</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D26118893' style='font-size: 13'>Профилактика</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D26118910' style='font-size: 9'>Пешеход</a>"+
+        
+            "<a href='http%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%3F_type%3Dportlet%26_decoration%3Dtrue%26_providerid%3D820347927%26_portletid%3D2%26_referencepath%3D533900_PORTLET2_820347927%26_mode%3D6%26_title%3D%26__ora_wsrp_state%3Dwsrp%3Anormal%26_atarget%3D133_26003831_133_11539327_11539327%26__ora_type%3Dblock%26_backurl%3Dhttp%3A%2F%2Fmvd.gov.kz%2Fportal%2Fpage%2Fportal%2Fmvd%2FMVD%2Ftags%26tagid%3D26118957' style='font-size: 17'>ОВД</a>"+
+        
+
+    "</tags>");
+    so.write("3dcloud_block");
+</script>
+
+
+</TD></TR>
+</TABLE>
+</DIV></TD></TR>
+</TABLE><TABLE  WIDTH="100%" id="rg457939"  border="0" cellpadding="0" cellspacing="0" summary=""></TABLE><TABLE  WIDTH="100%" id="rg457937"  border="0" cellpadding="0" cellspacing="0" summary=""></TABLE><TABLE  WIDTH="100%" id="rg457941"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:0px 0px 0px 0px;" width="100%"><DIV id="p133_31263460_133_11308149_11308149-133_31116949_133_31116896_31116896">
+<script  type="text/javascript"  src="/images/mvd/calendar/calendar.js"></script>
+<script  type="text/javascript"  src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/calendar-ru.js"></script>
+<script  type="text/javascript"  src="/images/mvd/calendar/calendar-setup.js"></script>
+
+<IFRAME SRC="" NAME="FRAME_UPLOAD_SEARCH" ID="FRAME_UPLOAD_SEARCH" WIDTH=0 HEIGHT=0 STYLE="DISPLAY:NONE;WIDTH:0;HEIGHT:0;"> </IFRAME>
+<TABLE  width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+<tr><td align="left">
+
+<div  id="calendar-container" style="float: left; clear: both;" ></div>
+
+<script  type="text/javascript">
+function  dateChanged(calendar)  {
+//  Beware  that  this  function  is  called  even  if  the  end-user  only
+//  changed  the  month/year.    In  order  to  determine  if  a  date  was
+//  clicked  you  can  use  the  dateClicked  property  of  the  calendar:
+if  (calendar.dateClicked)  {
+//  OK,  a  date  was  clicked,  redirect  to  /yyyy/mm/dd/index.php
+var  y  =  calendar.date.getFullYear();
+var  m  =  calendar.date.getMonth();         //  integer,  0..11
+var  d  =  calendar.date.getDate(); //  integer,  1..31
+//  redirect...
+//window.location  =  "/"  +  y  +  "/"  +  m  +  "/"  +  d  +  "/index.php";
+window.location  =  "http://mvd.gov.kz/portal/pls/portal/searchview.searchCalendar_pkg_public.post?p_search="+d+"."+(m+1)+"."+y+"&p_reference_path=593195_SEARCHCALENDAR_PORTLET_556074509&submit=submit";
+}
+};
+
+var SPECIAL_DAYS = {
+    0 : [ 1, 2, 7 ],
+    2 : [ 8, 21, 22, 23 ],
+    4 : [ 1, 9 ],
+    6 : [ 6],
+    7 : [30],
+    11 : [16, 17]          
+  };
+  
+  function dateIsSpecial(year, month, day) {
+    var m = SPECIAL_DAYS[month];
+    if (!m) return false;
+    for (var i in m) if (m[i] == day) return true;
+    return false;
+  };
+
+  function ourDateStatusFunc(date, y, m, d) {
+    if (dateIsSpecial(y, m, d))
+      return "holyday";
+    else
+      return false; // other dates are enabled
+      // return true if you want to disable other dates
+  };
+  
+Calendar.setup(
+{
+flat :  "calendar-container",  //  ID  of  the  parent  element
+flatCallback  :  dateChanged, //  our  callback  function
+dateStatusFunc : ourDateStatusFunc,
+weekNumbers: false
+}
+);
+</script>
+</td></tr>
+</TABLE>
+</DIV></TD></TR>
+</TABLE><TABLE  WIDTH="100%" id="rg461977"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:0px 0px 0px 0px;" width="100%"><font class="inplacedisplayid1siteid133"><TITLE>Пока без заголовка...</TITLE>
+<META name=GENERATOR content="MSHTML 8.00.7601.17514">
+<STYLE> a {  text-decoration: none; } a:hover {  text-decoration: underline; } a img { border: none; } </STYLE>
+
+
+<DIV align=left>
+<TABLE border=2 borderColor=#5fcadf borderColorLight=#5fcadf borderColorDark=#5fcadf width=223 bgColor=white align=left height=90>
+<TBODY>
+<TR borderColorLight=white borderColorDark=white borderColor=white>
+<TD bgColor=#5fcadf borderColorLight=#5fcadf borderColor=white width=223 colSpan=2 borderColorDark=#5fcadf>
+<P align=center><B><FONT color=white size=4 face="Times New Roman">РОЗЫСК</FONT></B></P></TD></TR>
+<TR borderColorLight=white borderColorDark=white borderColor=white>
+<TD borderColorLight=#5fcadf borderColor=white width=110 borderColorDark=#5fcadf>
+<P align=center><A href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz/lookface"><IMG src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/BVP_26_08_2015.gif"></A></P></TD>
+<TD borderColorLight=#5fcadf borderColor=white width=110 borderColorDark=#5fcadf>
+<P align=center><A href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz/look"><IMG src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/RP_26_08_2015.gif"></A></P></TD></TR>
+<TR borderColorLight=white borderColorDark=white borderColor=white>
+<TD bgColor=#5fcadf height=18 borderColorLight=#5fcadf borderColor=white width=110 borderColorDark=#5fcadf>
+<P align=center><SPAN style="FONT-SIZE: 6pt"><A href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz/lookface"><FONT style="TEXT-DECORATION: none" color=white face="Times New Roman">БЕЗ ВЕСТИ ПРОПАВШИХ</FONT></A></SPAN></P></TD>
+<TD bgColor=#5fcadf height=18 borderColorLight=#5fcadf borderColor=white width=110 borderColorDark=#5fcadf>
+<P align=center><SPAN style="FONT-SIZE: 6pt"><A href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/mvd_nav_roz/look"><FONT style="TEXT-DECORATION: none" color=white face="Times New Roman">ПРЕСТУПНИКОВ</FONT></A></SPAN></P></TD></TR></TBODY></TABLE></DIV></font>
+</TD></TR>
+<TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:6px 0px 0px 0px;" width="100%"></TD></TR>
+</TABLE></DIV>
+</DIV></TD></TR>
+</TABLE>
+</DIV></TD></TR>
+<TR>
+<TD COLSPAN="1" WIDTH="100%" ><IMG SRC="/images/pobtrans.gif" height="4" width="1" ALT=""></TD>
+</TR>
+</TABLE><TABLE  WIDTH="100%" id="rg461460"  border="0" cellpadding="0" cellspacing="0" summary=""></TABLE><TABLE  WIDTH="100%" id="rg461457"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:4px 4px 0px 4px;" width="100%"><DIV id="p133_31263462_133_11308149_11308149"><SCRIPT>
+      function changeMessage(pCd, pTxt){
+          var x=document.getElementById('opros_msg').rows
+          if (pCd==1) { 
+            var y=x[0].cells
+            y[0].innerHTML=pTxt
+            var y=x[1].cells
+            y[0].innerHTML=""
+          } else {
+            var y=x[0].cells
+            y[0].innerHTML=""
+            var y=x[1].cells
+            y[0].innerHTML=pTxt
+          }
+          
+
+      }
+      </SCRIPT>
+<SCRIPT>
+      function refresh_opros_page(fl) 
+        {
+          if (fl>1){
+          var pURL = unescape(window.location.pathname)+"?p_fl="+fl;
+          window.location.replace(pURL);
+          }
+        }    
+      </SCRIPT>
+ 
+</DIV></TD></TR>
+<TR>
+<TD COLSPAN="1" WIDTH="100%" ><IMG SRC="/images/pobtrans.gif" height="4" width="1" ALT=""></TD>
+</TR>
+</TABLE><TABLE  WIDTH="100%" id="rg461461"  border="0" cellpadding="0" cellspacing="0" summary=""></TABLE><TABLE  WIDTH="100%" id="rg461458"  border="0" cellpadding="0" cellspacing="0" summary=""></TABLE><TABLE  WIDTH="100%" id="rg461459"  border="0" cellpadding="0" cellspacing="0" summary=""></TABLE></TD>
+</TR>
+</TABLE>
+<TABLE  WIDTH="100%" id="rg461440"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:0px 0px 0px 0px;" width="100%"><font class="inplacedisplayid1siteid133">  <meta name="GENERATOR" content="MSHTML 11.00.9600.16428"><p style="margin-left: 130px;"><img width="620" height="330" id="mapimage" src="/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/karta_kz.gif" border="0" usemap="#mapim"></p>  <map name="mapim" id="mapim">   <area title="ДВД г.Алматы" id="almaty" href="http://mvd.gov.kz/portal/page/portal/alm/ALM" shape="POLY" coords="469,256,464,260,466,264,474,264,474,259" target="_blank">  <area title="ДВД Алматинской области" id="almaty_obl" href="http://mvd.gov.kz/portal/page/portal/almo/MAIN" shape="POLY" coords="417,234,425,242,435,249,432,260,437,265,442,274,458,270,463,272,472,274,486,277,499,285,505,277,507,268,504,251,505,242,498,234,505,226,523,223,531,223,529,213,513,197,498,196,487,189,471,185,470,192,469,203,454,200,434,198,423,210" target="_blank">  <area title="ДВД г.Астаны" id="astana" href="http://mvd.gov.kz/portal/page/portal/ast/MAIN" shape="POLY" coords="350,96,356,94,362,101,356,106,348,101" target="_blank">    <area title="ДВД Акмолинской области" id="akmola" href="http://mvd.gov.kz/portal/page/portal/akm/MAIN" shape="POLY" coords="297,71,295,82,290,84,292,95,300,100,312,104,317,106,330,103,343,104,341,111,352,112,359,114,365,109,374,106,382,104,387,108,395,103,399,97,400,92,405,87,411,80,411,68,395,62,393,57,389,59,383,61,376,54,373,51,365,49,362,53,350,44,339,44,342,57,339,63,331,70,318,74,308,76" target="_blank">  <area title="ДВД ЗКО" id="zko" href="http://mvd.gov.kz/portal/page/portal/zko/ZKO" shape="POLY" coords="21,160,24,161,33,162,42,163,47,164,52,164,57,162,63,158,72,154,81,151,84,150,86,153,91,152,98,151,98,145,99,143,105,142,111,139,111,134,115,131,122,131,124,131,124,125,125,118,125,112,125,109,120,103,120,98,119,98,112,96,112,92,107,90,104,90,99,91,95,88,95,83,90,88,90,90,90,91,83,92,77,90,78,85,73,86,67,92,62,94,56,97,52,99,50,102,45,105,45,110,43,111,45,116,45,122,41,124,38,124,35,124,29,115,23,115,18,123,18,128,15,134,18,137,11,147,8,153,14,157,18,156,25,159" target="_blank">  <area title="ДВД Атырауской области" id="atyrau" href="http://mvd.gov.kz/portal/page/portal/atr/MAIN" shape="POLY" coords="106,211,115,210,118,203,138,202,145,204,154,207,153,203,143,194,135,189,134,177,133,157,133,153,128,149,127,152,120,149,118,143,113,142,108,142,103,143,101,149,101,152,96,153,87,153,80,153,74,156,61,163,55,167,39,166,25,163,18,163,23,166,33,173,35,179,44,190,52,195,59,195,65,193,73,187,81,191,92,188,99,192,104,198" target="_blank">  <area title="ДВД Кызылординской области" id="kyzylorda" href="http://mvd.gov.kz/portal/page/portal/kzo/MAIN" shape="POLY" coords="281,257,294,275,298,274,296,283,316,272,322,258,317,247,316,234,313,229,311,219,311,208,291,207,248,189,236,174,230,172,228,177,225,183,214,184,214,189,205,198,219,205,220,212,207,213,210,234,238,263,272,261" target="_blank">  <area title="ДВД Мангистауской области" id="aktau" href="http://mvd.gov.kz/portal/page/portal/mng/MAIN" shape="POLY" coords="141,314,145,314,148,232,157,227,155,209,142,203,122,203,117,208,109,211,102,216,107,223,85,228,77,234,83,238,80,243,66,241,72,254,81,269,95,278,102,280,98,291,98,302,108,292,120,291,134,297,141,314" target="_blank">  <area title="ДВД Актюбинской области" id="aktobe" href="http://mvd.gov.kz/portal/page/portal/akt/MAIN" shape="POLY" coords="160,226,183,219,185,209,193,205,203,195,209,186,213,182,220,181,225,171,232,169,241,174,246,177,249,179,268,169,255,153,243,142,240,130,246,121,243,110,234,98,227,104,219,111,213,110,200,115,190,111,180,104,165,102,161,106,151,107,145,113,135,105,129,110,130,115,131,123,125,132,118,135,130,139,135,148,136,159,136,171,140,182,143,190,157,199,159,208" target="_blank">  <area title="ДВД ЮКО" id="uko" href="http://mvd.gov.kz/portal/page/portal/uko/MAIN" shape="POLY" coords="299,292,305,295,309,306,323,314,328,323,337,309,349,300,361,292,356,282,355,278,346,270,347,263,350,248,341,214,316,212,319,229,325,243,329,258,325,267,326,274,314,285" target="_blank">  <area title="ДВД Костанайской области" id="kostanai" href="http://mvd.gov.kz/portal/page/portal/kstn/MAIN" shape="POLY" coords="241,59,224,61,229,67,235,74,216,79,240,92,245,104,255,120,249,129,248,140,265,153,277,143,295,142,319,116,302,108,290,106,285,96,283,89,283,82,287,80,295,62,295,45,294,32,294,25,286,29,283,29,275,32,265,33,255,35,251,41,234,38,241,50" target="_blank">    <area title="ДВД СКО" id="sko" href="http://mvd.gov.kz/portal/page/portal/sko/MAIN" shape="POLY" coords="301,22,307,30,300,35,304,48,305,56,300,63,302,66,309,69,317,64,321,65,327,63,333,59,335,53,333,46,338,40,346,42,356,40,367,44,384,49,391,54,402,57,408,62,400,44,389,37,374,34,365,27,365,15,365,8,357,13,343,9,326,19" target="_blank">  <area title="ДВД Карагандинской области" id="karaganda" href="http://mvd.gov.kz/portal/page/portal/krg/MAIN" shape="POLY" coords="344,119,338,117,335,108,330,111,329,118,301,145,292,150,279,147,274,162,274,171,254,185,291,204,316,208,404,208,412,199,423,191,443,191,456,191,454,183,455,169,455,152,454,143,450,137,457,124,464,117,460,112,455,115,446,120,427,124,422,123,425,117,422,114,413,110,408,101,385,116,375,107,369,120,362,122,357,123" target="_blank">  <area title="ДВД Жамбылской области" id="taraz" href="http://mvd.gov.kz/portal/page/portal/zhm/MAIN" shape="POLY" coords="379,280,403,285,404,275,410,272,418,273,427,274,432,278,431,269,427,265,429,255,428,249,423,248,418,241,410,235,411,230,398,215,345,213,353,241,354,256,349,269,363,277,364,282,365,285" target="_blank">  <area title="ДВД ВКО" id="vko" href="http://mvd.gov.kz/portal/page/portal/vko/MAIN" shape="POLY" coords="526,198,535,214,546,177,575,183,580,184,575,169,581,157,592,149,598,140,583,136,573,133,568,121,555,115,555,108,544,105,538,110,520,109,515,104,509,106,505,110,490,91,479,96,489,113,480,124,471,123,456,137,465,153,466,170,462,177,484,180,500,187" target="_blank">  <area title="ДВД Павлодарской области" id="pavlodar" href="http://mvd.gov.kz/portal/page/portal/pvld/MAIN" shape="POLY" coords="410,46,414,56,415,71,416,81,423,87,414,92,418,101,432,111,438,114,448,109,454,104,467,108,474,114,477,114,476,107,471,94,486,84,469,54,447,39,444,34,435,42,427,44,427,50,420,54" target="_blank">  <area shape="DEFAULT" nohref="0"> </map>            </font>
+</TD></TR>
+</TABLE><TABLE  WIDTH="100%" id="rg461441"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:0px 0px 0px 0px;" width="100%"><font class="inplacedisplayid1siteid133">
+<META name=GENERATOR content="MSHTML 8.00.7601.17514">
+
+<DIV class=list_carousel><A id=prev_test class=prev href=""><IMG class=ex_links_left src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/left.png" height=40> </A><A id=next_test class=next href=""><IMG class=ex_links_right src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/right.png" height=40></A> 
+<UL id=test_foo>
+<LI style="WIDTH: 180px; HEIGHT: 120px"><A href="http://akorda.kz" target=_blank><IMG alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/external_links/akorda_ru.jpg" width=180 height=120></A> </LI>
+<LI style="WIDTH: 180px; HEIGHT: 120px"><A href="http://primeminister.kz/?lang=ru" target=_blank><IMG alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/external_links/pm_rus.jpg" width=180 height=120></A> </LI>
+<LI style="WIDTH: 180px; HEIGHT: 120px"><A href="http://egemen.kz" target=_blank><IMG alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/external_links/smi_kz.png" width=180 height=120></A> </LI>
+<LI style="WIDTH: 180px; HEIGHT: 120px"><A href="http://www.adilet.gov.kz/ru" target=_blank><IMG alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/external_links/minjust_ru.png" width=180 height=120></A> </LI>
+<LI style="WIDTH: 180px; HEIGHT: 120px"><A href="http://e.gov.kz" target=_blank><IMG alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/external_links/e_gov_ru.png" width=180 height=120></A> </LI>
+<LI style="WIDTH: 180px; HEIGHT: 120px"><A href="http://adilet.minjust.kz" target=_blank><IMG alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/external_links/1531592.gif" width=180 height=120></A> </LI>
+<LI style="WIDTH: 180px; HEIGHT: 120px"><A href="http://www.kazneb.kz/wps/portal" target=_blank><IMG alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/external_links/guide_44.gif" width=180 height=120></A> </LI>
+<LI style="WIDTH: 180px; HEIGHT: 120px"><A href="http://www.madenimura.kz" target=_blank><IMG alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/external_links/guide_45.gif" width=180 height=120></A> </LI>
+<LI style="WIDTH: 180px; HEIGHT: 120px"><A href="http://www.adilet.gov.kz/ru" target=_blank><IMG alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/external_links/min_ust_ru.png" width=180 height=120></A> </LI>
+<LI style="WIDTH: 180px; HEIGHT: 120px"><A href="http://www.pa-academy.kz" target=_blank><IMG alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/external_links/MemBa.jpg" width=180 height=120></A> </LI>
+<LI style="WIDTH: 180px; HEIGHT: 120px"><A href="http://www.prokuror.gov.kz" target=_blank><IMG alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/external_links/gp_ru.jpg" width=180 height=120></A> </LI>
+<LI style="WIDTH: 180px; HEIGHT: 120px"><A href="http://www.minfin.gov.kz" target=_blank><IMG alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/external_links/MF_rus.png" width=180 height=120></A> </LI>
+<LI style="WIDTH: 180px; HEIGHT: 120px"><A href="http://www.kzcontent.kz" target=_blank><IMG alt="" src="http://mvd.gov.kz/portal/page/portal/kbn/kbn_system/FilesNewKBN/external_links/Kazcontent.png" width=180 height=120></A> </LI>
+<LI style="WIDTH: 180px; HEIGHT: 120px"><A href="http://anticorruption.gov.kz/rus/index.php" target=_blank><IMG alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/external_links/banner_anticorruption_rus1.png" width=180 height=120></A> </LI>
+<LI style="WIDTH: 180px; HEIGHT: 120px"><A href="http://www.strategy2050.kz/ru/" target=_blank><IMG alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/external_links/2050_0.gif" width=180 height=120></A> </LI>
+<LI style="WIDTH: 180px; HEIGHT: 120px"><A href="http://egov.kz/wps/portal/!utWCM/p/b1/04_SjzSzsDQ0sjA2NtaP0I_KSyzLTE8syczPS8wB8aPM4oO8PE2cnAwdDSxMw4wMHE08nZ2CA0KDXcwMgQoikRUYWIY4gxS4hwU4mRkbGBgTp98AB3A0IKQ_XD8KVQkWF4AV4LHCzyM_N1U_NyrHzdJT1xEAxM3PwA!!/dl4/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzRKVXFDQSEhL3J1/" target=_blank><IMG alt="" src="http://mvd.gov.kz/portal/page/portal/ver-1/mvd/mvd_system/FilesNewMVDTemplate/banner_megov_rus.png" width=180 height=120></A> </LI>
+<LI style="WIDTH: 180px; HEIGHT: 120px"><A href="http://www.1414.kz/" target=_blank><IMG alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/external_links/1414_rus.png" width=180 height=120></A> </LI>
+<LI style="WIDTH: 180px; HEIGHT: 120px"><A href="http://knb.kz/ru/main.htm" target=_blank><IMG alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/external_links/knb_ru.png" width=180 height=120></A> </LI>
+<LI style="WIDTH: 180px; HEIGHT: 120px"><A href="http://office.sud.kz/" target=_blank><IMG alt="" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/external_links/supreme_court_rus.png" width=180 height=120></A> </LI></UL></DIV><LINK rel=stylesheet type=text/css href="Stylesheets/formOutlineWW9047.css"><LINK rel=stylesheet type=text/css href="Stylesheets/formOutlineWW9047.css"></font>
+</TD></TR>
+</TABLE><TABLE  WIDTH="100%" id="rg461485"  style="height:50px" border="0" cellpadding="0" cellspacing="0" summary=""><TR>
+<TD COLSPAN="1" WIDTH="100%" ><IMG SRC="/images/pobtrans.gif" height="1" width="1" ALT=""></TD>
+</TR>
+</TABLE><TABLE  BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="100%"  summary="">
+<TR>
+<TD VALIGN="top"  width="33%">
+<TABLE  WIDTH="100%" id="rg461451"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:5px 5px 0px 5px;" width="100%"><DIV id="p133_31263451_133_11308149_11308149"><SCRIPT LANGUAGE='JavaScript'>
+function changeemlMessage(pCd, pTxt){
+    document.getElementById('eml_msg').text = pTxt;
+}
+</SCRIPT>
+<SCRIPT LANGUAGE='JavaScript'>
+function refresh_eml_page(fl) 
+  {
+    if (fl>=0){
+    var pURL = unescape(window.location.pathname)+"?p_eml="+fl;
+    window.location.replace(pURL);
+    }
+  }    
+</SCRIPT>
+<IFRAME SRC="" NAME="FRAME_UPLOAD" ID="FRAME_UPLOAD" WIDTH=0 HEIGHT=0 STYLE="DISPLAY:NONE;WIDTH:0;HEIGHT:0;"> </IFRAME>
+<TABLE  width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+<tr><td align="left">
+<FORM ACTION="http://mvd.gov.kz/portal/pls/portal/eml.eml_new_pkg_public.post" METHOD="POST" ENCTYPE="application/x-www-form-urlencoded" TARGET="FRAME_UPLOAD" NAME="WW_eml">
+<TABLE  width="250" border="0" cellspacing="0" cellpadding="5" class="eml-table">
+<TR>
+<td align="justify" width="80%" class="PortletText1">
+<TABLE  width="250" border="0" cellspacing="0" cellpadding="0">
+<TR>
+<TD><IMG src="/images/mvd/emsubscribe.gif" border=0></TD>
+<TD  align="left" width="90%" style="Color:rgb(167,255,255);
+                                   Font-Family:Arial, Helvetica;text-transform:uppercase;
+                                   Font-Style:normal;font-weight:bold;Font-Size:10pt;">&nbsp;ПОДПИСКА НА НОВОСТИ</TD>
+</TR>
+</TABLE>
+</td>
+</TR>
+<TR>
+<TD  align="justify" width="90%" style="Color:rgb(167,255,255);Font-Family:Arial, Helvetica;
+                                   Font-Style:normal;Font-Size:10pt;   line-height: 12pt;">Здесь вы можете подписаться на рассылку новостей сайта МВД Республики Казахстан</TD>
+</TR>
+<TR>
+<td>
+<TABLE  width="100%" border="0" cellspacing="2" cellpadding="0">
+<TR>
+<TD  width="50%"  class="PortletText1"><INPUT TYPE="text" NAME="p_eml" SIZE="30" class="PortletText1"></TD>
+<TD  width="50%"  class="PortletText1"><INPUT TYPE="submit" NAME="Submit" VALUE="Ok" class="PortletText1"></TD>
+<INPUT TYPE="hidden" NAME="p_rootpage_name" VALUE="0">
+<INPUT TYPE="hidden" NAME="p_page_name" VALUE="mvd_page">
+<INPUT TYPE="hidden" NAME="p_language" VALUE="ru">
+</TR>
+<TR>
+<TD  width="50%"  style="Color:rgb(167,255,255);Font-Family:Arial, Helvetica;
+                                   Font-Style:normal;font-weight:bold;Font-Size:10pt;"><INPUT TYPE=CHECKBOX NAME="p_reject">Отписаться</TD>
+</TR>
+</TABLE>
+</td>
+</TR>
+</TABLE>
+</FORM>
+</td></tr>
+</TABLE>
+<table id="eml_msg" width="100%" border="0">
+</table>
+</DIV></TD></TR>
+<TR>
+<TD COLSPAN="1" WIDTH="100%" ><IMG SRC="/images/pobtrans.gif" height="5" width="1" ALT=""></TD>
+</TR>
+</TABLE><TABLE  WIDTH="100%" id="rg461452" class="Bodyid31247599siteid133" border="0" cellpadding="0" cellspacing="0" summary=""></TABLE></TD>
+<TD VALIGN="top"  width="33%">
+<TABLE  WIDTH="100%" id="rg461445"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:10px 10px 0px 10px;" width="100%"><DIV id="p133_31263443_133_11308149_11308149"><STYLE TYPE="text/css">.GroupHeaderid1siteid133{Background-Color:#336699;Height:20;Text-Align:left;}
+.GroupHeaderLinkid1siteid133{Color:#FFFFFF;Font-Family:Arial, Helvetica;Font-Size:9pt;Font-Weight:Bold;}
+.GroupHeaderTextid1siteid133{Color:#FFFFFF;Font-Family:Arial, Helvetica;Font-Size:9pt;Font-Weight:Bold;}
+.RegionHeaderid1siteid133{Background-Color:#336699;Height:20;Text-Align:Left;}
+.RegionHeaderTextid1siteid133{Color:#FFFFFF;Font-Family:Arial, Helvetica;Font-Size:9pt;Font-Weight:Bold;}
+.Bodyid1siteid133{}
+.authorid1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.createdateid1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.creatorid1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.defaultattributeid1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.descriptionid1siteid133{Color:#000000;Font-Family:Verdana;Font-Size:11pt;}
+.documentsizeid1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.expiredateid1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.inplacedisplayid1siteid133{Color:#000000;Font-Family:Verdana;Font-Size:11pt;}
+.itemfunctionid1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.keywordsid1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.perspectivesid1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.scoreid1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.subpagetitleid1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.titleid1siteid133{Color:#000000;Font-Family:Verdana;Font-Size:10pt;Font-Weight:Bold;}
+.titleorimageid1siteid133{Color:#003366;Text-Decoration:none;Font-Family:Verdana;Font-Size:11pt;Font-Weight:Bold;}
+.wwsbr_category_id1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_charset_id1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_itemtype_id1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_mime_type_id1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_page_id1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_pagegroup_id1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_publishdate_id1siteid133{Color:#2B5372;Text-Decoration:Underline;Font-Family:Verdana;Font-Size:9pt;Font-Weight:Bold;}
+.wwsbr_updatedate_id1siteid133{Color:#000000;Font-Family:Verdana;Font-Size:8pt;}
+.wwsbr_updator_id1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_version_number_id1siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.LeftSubTabid1siteid133{Background-Attachment:scroll;Background-Color:#336699;Background-Image:url(http://mvd.gov.kz/images/sl.gif);Background-Position:left top;Background-Repeat:no-repeat;}
+.LeftTabBgSlantid1siteid133{Background-Attachment:scroll;Background-Color:#CCCC99;Background-Image:url(http://mvd.gov.kz/images/tl.gif);Background-Position:left top;Background-Repeat:no-repeat;}
+.LeftTabForeSlantid1siteid133{Background-Attachment:scroll;Background-Color:#336699;Background-Image:url(http://mvd.gov.kz/images/tl.gif);Background-Position:left top;Background-Repeat:no-repeat;}
+.RightSubTabid1siteid133{Background-Attachment:scroll;Background-Color:#336699;Background-Image:url(http://mvd.gov.kz/images/sr.gif);Background-Position:right top;Background-Repeat:no-repeat;}
+.RightTabBgCurveid1siteid133{Background-Attachment:scroll;Background-Color:#CCCC99;Background-Image:url(http://mvd.gov.kz/images/tr.gif);Background-Position:right top;Background-Repeat:no-repeat;}
+.RightTabForeCurveid1siteid133{Background-Attachment:scroll;Background-Color:#336699;Background-Image:url(http://mvd.gov.kz/images/tr.gif);Background-Position:right top;Background-Repeat:no-repeat;}
+.SubTabBgTextid1siteid133{Color:#CCCC99;Text-Decoration:none;Font-Family:Arial, Helvetica;Font-Size:11pt;Font-Weight:Bold;}
+.TabBackgroundColorid1siteid133{Background-Color:#CCCC99;}
+.TabBackgroundTextid1siteid133{Color:#003366;Text-Decoration:none;Font-Family:Arial, Helvetica;Font-Size:10pt;}
+.TabForegroundColorid1siteid133{Background-Color:#336699;}
+.TabForegroundTextid1siteid133{Color:#FFFFFF;Text-Decoration:none;Font-Family:Arial, Helvetica;Font-Size:10pt;Font-Weight:Bold;}
+ </STYLE><STYLE TYPE="text/css">.GroupHeaderid31247599siteid133{Background-Color:#336699;Height:20;Text-Align:left;}
+.GroupHeaderLinkid31247599siteid133{Color:#FFFFFF;Font-Family:Arial, Helvetica;Font-Size:9pt;Font-Weight:Bold;}
+.GroupHeaderTextid31247599siteid133{Color:#FFFFFF;Font-Family:Arial, Helvetica;Font-Size:9pt;Font-Weight:Bold;}
+.RegionHeaderid31247599siteid133{Background-Color:#336699;Height:20;Text-Align:Left;}
+.RegionHeaderTextid31247599siteid133{Color:#FFFFFF;Font-Family:Arial, Helvetica;Font-Size:9pt;Font-Weight:Bold;}
+.Bodyid31247599siteid133{}
+.authorid31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.createdateid31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.creatorid31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.defaultattributeid31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.descriptionid31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:9pt;}
+.documentsizeid31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.expiredateid31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.inplacedisplayid31247599siteid133{Color:#005476;Text-Decoration:Underline;Font-Family:Arial, Helvetica;Font-Size:10pt;Font-Style:Italic;    Font-Weight:Bold;}
+.itemfunctionid31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.keywordsid31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.perspectivesid31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.scoreid31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.subpagetitleid31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.titleid31247599siteid133{Color:#005476;Text-Decoration:Underline;Font-Family:Arial, Helvetica;Font-Size:10pt;Font-Style:Italic;    Font-Weight:Bold;}
+.titleorimageid31247599siteid133{Color:#005476;Text-Decoration:Underline;Font-Family:Arial, Helvetica;Font-Size:10pt;Font-Style:Italic;    Font-Weight:Bold;}
+.wwsbr_category_id31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_charset_id31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_itemtype_id31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_mime_type_id31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_page_id31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_pagegroup_id31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_publishdate_id31247599siteid133{Color:#2B5372;Text-Decoration:Underline;Font-Family:Arial, Helvetica;Font-Size:9pt;Font-Weight:Bold;}
+.wwsbr_updatedate_id31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_updator_id31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.wwsbr_version_number_id31247599siteid133{Color:#000000;Font-Family:Arial, Helvetica;Font-Size:8pt;}
+.LeftSubTabid31247599siteid133{Background-Attachment:scroll;Background-Color:#336699;Background-Image:url(http://mvd.gov.kz/images/sl.gif);Background-Position:left top;Background-Repeat:no-repeat;}
+.LeftTabBgSlantid31247599siteid133{Background-Attachment:scroll;Background-Color:#CCCC99;Background-Image:url(http://mvd.gov.kz/images/tl.gif);Background-Position:left top;Background-Repeat:no-repeat;}
+.LeftTabForeSlantid31247599siteid133{Background-Attachment:scroll;Background-Color:#336699;Background-Image:url(http://mvd.gov.kz/images/tl.gif);Background-Position:left top;Background-Repeat:no-repeat;}
+.RightSubTabid31247599siteid133{Background-Attachment:scroll;Background-Color:#336699;Background-Image:url(http://mvd.gov.kz/images/sr.gif);Background-Position:right top;Background-Repeat:no-repeat;}
+.RightTabBgCurveid31247599siteid133{Background-Attachment:scroll;Background-Color:#CCCC99;Background-Image:url(http://mvd.gov.kz/images/tr.gif);Background-Position:right top;Background-Repeat:no-repeat;}
+.RightTabForeCurveid31247599siteid133{Background-Attachment:scroll;Background-Color:#336699;Background-Image:url(http://mvd.gov.kz/images/tr.gif);Background-Position:right top;Background-Repeat:no-repeat;}
+.SubTabBgTextid31247599siteid133{Color:#CCCC99;Text-Decoration:none;Font-Family:Arial, Helvetica;Font-Size:11pt;Font-Weight:Bold;}
+.TabBackgroundColorid31247599siteid133{Background-Color:#CCCC99;}
+.TabBackgroundTextid31247599siteid133{Color:#003366;Text-Decoration:none;Font-Family:Arial, Helvetica;Font-Size:10pt;}
+.TabForegroundColorid31247599siteid133{Background-Color:#336699;}
+.TabForegroundTextid31247599siteid133{Color:#FFFFFF;Text-Decoration:none;Font-Family:Arial, Helvetica;Font-Size:10pt;Font-Weight:Bold;}
+ </STYLE>
+<TABLE  BORDER="0" WIDTH="100%" CELLPADDING="0" CELLSPACING="0" class="RegionNoBorder">
+<TR><TD class="RegionHeaderColor" WIDTH="100%"><DIV id="pcnt133_31263443_133_11308149_11308149"><DIV class="Bodyid1siteid133">
+<TABLE  WIDTH="100%" id="rg461436" class="Bodyid31247599siteid133" border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:4px 4px 0px 4px;" width="100%"><font class="titleorimageid31247599siteid133">ПОЛЕЗНАЯ ИНФОРМАЦИЯ О ПОРТАЛЕ</font><BR>
+<div style="padding-top:8px;padding-left:25px;"><a href="http://mvd.gov.kz/portal/page/portal/D0D63EBD13690651E044002655122E6A" ><font class="titleorimageid31247599siteid133">Карта сайта</font></a><BR>
+</div><div style="padding-top:8px;padding-left:25px;"><a href="http://mvd.gov.kz/portal/page/portal/mvd/MVD/Confidentiality" ><font class="titleorimageid31247599siteid133">Памятка конфиденциальности информации</font></a><BR>
+</div><div style="padding-top:8px;padding-left:25px;"><a href="mailto:press@mvd.kz" ><font class="titleorimageid31247599siteid133">Отправить сообщение об ошибке</font></a><BR>
+</div></TD></TR>
+<TR>
+<TD COLSPAN="1" WIDTH="100%" ><IMG SRC="/images/pobtrans.gif" height="4" width="1" ALT=""></TD>
+</TR>
+</TABLE><TABLE  WIDTH="100%" id="rg461438"  border="0" cellpadding="0" cellspacing="0" summary=""></TABLE></DIV>
+</DIV></TD></TR>
+</TABLE>
+</DIV></TD></TR>
+<TR>
+<TD COLSPAN="1" WIDTH="100%" ><IMG SRC="/images/pobtrans.gif" height="10" width="1" ALT=""></TD>
+</TR>
+</TABLE><TABLE  WIDTH="100%" id="rg461444" class="Bodyid31247599siteid133" border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:0px 0px 0px 0px;" width="100%"><font class="inplacedisplayid31247599siteid133">
+<META name=GENERATOR content="MSHTML 11.00.9600.16663">
+
+<TABLE>
+<TBODY>
+<TR height=100>
+<TD></TD></TR></TBODY></TABLE></font>
+</TD></TR>
+</TABLE></TD>
+<TD VALIGN="top"  width="33%">
+<TABLE  WIDTH="100%" id="rg461447"  border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:0px 0px 0px 0px;" width="100%"><DIV id="p133_31263445_133_11308149_11308149">
+</DIV></TD></TR>
+</TABLE><TABLE  WIDTH="100%" id="rg461448" class="Bodyid31247599siteid133" border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="CENTER">
+<TD vAlign="top" style="padding:10px 10px 0px 10px;" width="100%"><font class="inplacedisplayid31247599siteid133">
+<META name=GENERATOR content="MSHTML 11.00.9600.16663">
+ТЕЛЕФОН ДОВЕРИЯ<BR><IMG title="1402 " style="MARGIN-BOTTOM: -20px" src="http://mvd.gov.kz/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/helpline.png"> <FONT size=4>1402</FONT> <LINK rel=stylesheet type=text/css href="Stylesheets/formOutlineWW9047.css"></font>
+</TD></TR>
+<TR>
+<TD COLSPAN="1" WIDTH="100%" ><IMG SRC="/images/pobtrans.gif" height="10" width="1" ALT=""></TD>
+</TR>
+</TABLE><TABLE  WIDTH="100%" id="rg461449" class="Bodyid1siteid133" border="0" cellpadding="0" cellspacing="0" summary=""><TR ALIGN="LEFT">
+<TD vAlign="top" style="padding:25px 25px 0px 25px;" width="100%"><font class="titleorimageid1siteid133"> </font><BR>
+</TD></TR>
+<TR>
+<TD COLSPAN="1" WIDTH="100%" ><IMG SRC="/images/pobtrans.gif" height="25" width="1" ALT=""></TD>
+</TR>
+</TABLE></TD>
+</TR>
+</TABLE>
+<!----- show footer template = 6900944787 ----->
+
+		</div>
+	</div>
+
+
+	
+	<div id="footer-bgs">
+		<div style="position:relative;">
+			<div style="position:absolute;top:0; left:0;width: 100%;">
+				<div style="width: 1100px;margin: 0 auto;">	
+					<div id="footer-bg-globe"> </div>
+				</div>
+			</div>
+			<div id="footer-bg-oiu"></div>
+		</div>	
+	</div>
+
+	<div id="footer">
+		<div style="height:224px; width:100%;"></div>
+		<div id = "footer-copyright">
+			<div style="width: 1100px;margin: 0 auto;">	
+				
+				
+<label class="ministry_mvd">&copy Министерство Внутренних дел Республики Казахстан 2000-2015</label>
+	
+
+				<div style="float:left; margin-left:270px; margin-top: 11px;">
+					<!-- begin of Top100 code for MVD RK-->
+					<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?3038380"></script>
+					<noscript>
+					<a href="http://top100.rambler.ru/navi/3038380/"><img src="http://counter.rambler.ru/top100.cnt?3038380" alt="Rambler's Top100" border="0" /></a>
+					</noscript>
+					<!-- end of Top100 code -->
+				</div>
+
+				<!-- Yandex.Metrika informer.. -->
+				<a href="http://metrika.yandex.ru/stat/?id=4333756&amp;from=informer" target="_blank" rel="nofollow" style="float:left; margin-left:8px;margin-top: 12px;">
+					<img src="//bs.yandex.ru/informer/4333756/3_0_9FE7FFFF_7FC7FFFF_0_pageviews" alt="Яндекс.Метрика" 
+						title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" />
+				</a>
+				<!-- Yandex.Metrika counter -->
+				<div style="display:none;"><script type="text/javascript">
+				(function(w, c) {
+					(w[c] = w[c] || []).push(function() {
+						try {		
+							w.yaCounter4333756 = new Ya.Metrika({id:4333756,
+									clickmap:true,
+									trackLinks:true});
+						}
+						catch(e) { }
+					});
+				})(window, 'yandex_metrika_callbacks');
+				</script></div>
+				<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+				<noscript><div><img src="//mc.yandex.ru/watch/4333756" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+				<!-- Rating@Mail.ru counter -->
+				<script type="text/javascript">
+				var _tmr = _tmr || [];
+				_tmr.push({id: "2181371",  type: "pageView", start: (new Date()).getTime()});
+				(function (d, w) {
+				   var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+				   ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+				   var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+				   if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+				})(document, window);
+				</script><noscript><div style="position:absolute;left:-10000px;">
+				<img src="//top-fwz1.mail.ru/counter?id=2181371;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+				</div></noscript>
+				<!-- //Rating@Mail.ru counter -->
+				
+				<!-- Rating@Mail.ru logo -->
+				<a target="_blank" href="http://top.mail.ru/jump?from=2181371" style="float:left;margin-left:8px;margin-top: 11px;">
+				<img src="//top-fwz1.mail.ru/counter?id=2181371;t=479;l=1" 
+				border="0" height="31" width="88" alt="Рейтинг@Mail.ru"></a>
+				<!-- //Rating@Mail.ru logo -->
+				<div style="clear:both;"></div>
+				
+			</div>	
+		</div>
+	</div>	
+</div>
+
+    <div class="scrollToTop">
+        <a href="#" onclick="return false;">
+            <img src="/portal/page/portal/mvd/mvd_system/FilesNewMVDTemplate/go-up_9603.png" /></a>
+    </div>
+
+<span id="abtn" title="Нажмите для показа новостей">
+	
+</span>
+
+<div id="acont" class="contentContacts">
+    <div id="contacts">
+        <div id="inner-content">
+        </div>
+    </div>
+</div>
+
+
+</body>	  	
+
+<script type="text/javascript" src="/images/mvd/js/jquery.carouFredSel-6.2.0-packed.js" > </script>
+<script type="text/javascript"> 
+	$('#test_foo').carouFredSel({
+		prev: '#prev_test',
+		next: '#next_test',
+		mousewheel: true,
+		auto:  false,
+		swipe: {
+			onMouse: true,
+			onTouch: true
+		}
+	});
+	$('#inter_carousel').carouFredSel({
+		prev: '#prev_inter',
+		next: '#next_inter',
+		mousewheel: true,
+		auto:  false,
+		
+		swipe: {
+			onMouse: true,
+			onTouch: true
+		}
+	});
+
+
+	$( document ).ready(function() {
+		$( "td>img[src='/images/pobtrans.gif']").parent().css( "font-size", "0" ).css( "line-height", "0" );
+
+		if($("#p133_31594796_133_11246915_11246915").height() > $("#p133_31594717_133_11246915_11246915").height()){
+			$("#p133_31594717_133_11246915_11246915").css({'height':($("#p133_31594796_133_11246915_11246915").height()+'px')});
+		}else{
+			$("#p133_31594796_133_11246915_11246915").css({'height':($("#p133_31594717_133_11246915_11246915").height()+'px')});
+		}
+	});
+
+
+</script>	
+<script type="text/javascript" src="/portal/page/portal/mvd/mvd_system/Files2015MVDTemplate/interactive_map.js"></script>
+<script type="text/javascript" src="/images/mvd/js/hint.js" > </script>
+<script type="text/javascript" src="/images/mvd/js/mistakes.js" > </script> 
+
+
+</html>
+<!-- Page Metadata Generated On: 14-ДЕК-2015:13:00:30  Time Taken: 110 msecs -->
