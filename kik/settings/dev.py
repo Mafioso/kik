@@ -12,6 +12,8 @@ https://docs.djangoproject.com/en/1.6/ref/settings/
 import os
 import imp
 
+pj = os.path.join
+
 def rel(*x):
     return os.path.join(BASE_DIR, *x)
 
@@ -19,15 +21,15 @@ BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 
 # Celery settings
 
-BROKER_URL = 'amqp://guest:guest@localhost//'
+# BROKER_URL = 'amqp://guest:guest@localhost//'
 
 #: Only add pickle to this list if your broker is secured
 #: from unwanted access (see userguide/security.html)
-CELERYBEAT_SCHEDULER = 'djcelery.schedulers.DatabaseScheduler'
-CELERY_ACCEPT_CONTENT = ['json']
-CELERY_TASK_SERIALIZER = 'json'
-CELERY_RESULT_SERIALIZER = 'json'
-CELERY_RESULT_BACKEND = 'djcelery.backends.database:DatabaseBackend'
+# CELERYBEAT_SCHEDULER = 'djcelery.schedulers.DatabaseScheduler'
+# CELERY_ACCEPT_CONTENT = ['json']
+# CELERY_TASK_SERIALIZER = 'json'
+# CELERY_RESULT_SERIALIZER = 'json'
+# CELERY_RESULT_BACKEND = 'djcelery.backends.database:DatabaseBackend'
 
 BASE_DIR = BASE_DIR
 TEMP_DIR = rel(BASE_DIR, 'temp_dir')
@@ -55,7 +57,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'django_extensions',
     'django_filters',
-    'djcelery',
+#     'djcelery',
     'rest_framework',
     'kik',
 )
@@ -78,8 +80,8 @@ WSGI_APPLICATION = 'kik.wsgi.dev.application'
 
 CACHES = {
     'default': {
-        'BACKEND': 'django.core.cache.backends.memcached.PyLibMCCache',
-        'LOCATION': '127.0.0.1:11211'
+#         'BACKEND': 'django.core.cache.backends.memcached.PyLibMCCache',
+#         'LOCATION': '127.0.0.1:11211'
     }
 }
 
@@ -102,6 +104,9 @@ USE_TZ = False
 MEDIA_ROOT = rel('../..', 'media')
 MEDIA_URL = '/media/'
 
+AGENDA_DIR = pj(MEDIA_ROOT, 'agendas')
+TEMPLATE_DIR = pj(MEDIA_ROOT, 'templates')
+
 STATIC_URL = '/static/'
 STATIC_ROOT = rel('../..', 'static')
 STATICFILES_DIRS = (
@@ -118,11 +123,11 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'kik',
-        'TEST_NAME': 'test_kik',
-        'USER': 'postgres',
-        'PASSWORD': 'postgres',
-        'HOST': 'localhost',
-        'PORT': '5432'
+#         'TEST_NAME': 'test_kik',
+#         'USER': 'postgres',
+#         'PASSWORD': 'postgres',
+#         'HOST': 'localhost',
+#         'PORT': '5432'
     },
 }
 

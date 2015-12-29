@@ -10,7 +10,7 @@ class Person(models.Model):
     @classmethod
     def build_agenda(cls, cnt):
         assert cnt > 0, "cnt should be at list 1"
-        return Person.objects.all().order_by(
+        return Person.objects.all().select_related().order_by(
             '-date_edited', '-date_created')[:cnt]
 
 
